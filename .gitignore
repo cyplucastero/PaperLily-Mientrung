@@ -10,3 +10,4 @@ vcpkg.exe
 debug.log
 *.docx
 LacieEngineLog/*
+.~lock.*
