@@ -1,0 +1,2443 @@
+<?xml version="1.0" encoding="utf-8"?>
+<office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
+  <office:automatic-styles>
+    <style:style style:name="Translation-co1" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="2.258cm" />
+    </style:style>
+    <style:style style:name="Translation-ce1" style:family="table-cell">
+      <style:table-cell-properties fo:wrap-option="no-wrap" style:vertical-align="top" />
+    </style:style>
+    <style:style style:name="Translation-co2" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="5.228cm" />
+    </style:style>
+    <style:style style:name="Translation-ce2" style:family="table-cell">
+      <style:table-cell-properties fo:wrap-option="no-wrap" style:vertical-align="top" />
+    </style:style>
+    <style:style style:name="Translation-co3" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="9.784cm" />
+    </style:style>
+    <style:style style:name="Translation-ce3" style:family="table-cell">
+      <style:table-cell-properties fo:wrap-option="wrap" style:vertical-align="top" />
+    </style:style>
+    <style:style style:name="Translation-co4" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="9.784cm" />
+    </style:style>
+    <style:style style:name="Translation-ce4" style:family="table-cell">
+      <style:table-cell-properties fo:wrap-option="wrap" style:vertical-align="top" />
+      <style:map style:condition="is-true-formula(AND(LEN(TRIM([.C1]))&gt;0; LEN(TRIM([.D1]))=0))" style:apply-style-name="Bad" style:base-cell-address="Translation.D1" />
+    </style:style>
+    <style:style style:name="Translation-co5" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="9.784cm" />
+    </style:style>
+    <style:style style:name="Translation-ce5" style:family="table-cell">
+      <style:table-cell-properties fo:wrap-option="wrap" style:vertical-align="top" />
+    </style:style>
+    <style:style style:name="Base-co1" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="2.258cm" />
+    </style:style>
+    <style:style style:name="Base-ce1" style:family="table-cell" />
+    <style:style style:name="Base-co2" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="2.258cm" />
+    </style:style>
+    <style:style style:name="Base-ce2" style:family="table-cell" />
+    <style:style style:name="Base-co3" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="2.258cm" />
+    </style:style>
+    <style:style style:name="Base-ce3" style:family="table-cell" />
+    <style:style style:name="Base-co4" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="2.258cm" />
+    </style:style>
+    <style:style style:name="Base-ce4" style:family="table-cell" />
+    <style:style style:name="Base-co5" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="2.258cm" />
+    </style:style>
+    <style:style style:name="Base-ce5" style:family="table-cell" />
+    <style:style style:name="Config-co1" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="2.258cm" />
+    </style:style>
+    <style:style style:name="Config-ce1" style:family="table-cell" />
+    <style:style style:name="Config-co2" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="2.258cm" />
+    </style:style>
+    <style:style style:name="Config-ce2" style:family="table-cell" />
+    <style:style style:name="Config-co3" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="2.258cm" />
+    </style:style>
+    <style:style style:name="Config-ce3" style:family="table-cell" />
+    <style:style style:name="Config-co4" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="2.258cm" />
+    </style:style>
+    <style:style style:name="Config-ce4" style:family="table-cell" />
+  </office:automatic-styles>
+  <office:body>
+    <office:spreadsheet>
+      <table:table table:name="Translation">
+        <table:table-column table:style-name="Translation-co1" table:default-cell-style-name="Translation-ce1" />
+        <table:table-column table:style-name="Translation-co2" table:default-cell-style-name="Translation-ce2" />
+        <table:table-column table:style-name="Translation-co3" table:default-cell-style-name="Translation-ce3" />
+        <table:table-column table:style-name="Translation-co4" table:default-cell-style-name="Translation-ce4" />
+        <table:table-column table:style-name="Translation-co5" table:default-cell-style-name="Translation-ce5" />
+        <table:table-row>
+          <table:table-cell>
+            <text:p>context</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>extra</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>en</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>vi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>ja</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event ch1_event_phone_call</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event ch1_item_shoelaces_get</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;1&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;1&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;1&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Có cái đôi giày màu trắng có dây giày màu đỏ.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>赤い靴ひもが通された白い靴がある。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;2&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;2&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;2&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Dây giày có lẽ dùng được đấy.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>この靴ひもは使えるかもしれない。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;3&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;3&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;3&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Lấy ${item:ch1.shoelaces} chứ?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>${item:ch1.shoelaces} を取る？</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;4&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;4&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;4&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Lấy</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>取る</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;5&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;5&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;5&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Thôi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>取らない</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event item_salt_on_door_back</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;6&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;6&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;6&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Đã xong rồi.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>もうまいてある。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;7&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;7&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;7&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>(Bạn đã rắc muối lên lối vào.)</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>(入口に塩をまいた。)</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event item_salt_on_door_front</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;8&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;8&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;8&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Đã xong rồi.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>もうまいてある。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;9&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;9&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;9&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>(Bạn đã rắc muối lên lối vào.)</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>(入口に塩をまいた。)</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event misc_bench</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event misc_blood_text</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;10&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;10&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;10&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Ở đây có viết cái gì đó:</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>何か書いてある。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;11&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;11&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;11&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>“Lần cuối mày ngồi ăn ở đây là khi nào? Mày quên rồi à?”</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>「最後にここで食事をしたのはいつ？　忘れた？」</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event misc_bookshelf</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;12&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;12&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;12&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Chiếc tủ sách với mấy cuốn sách trang trí đa tạp.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>装飾用の本が雑多に並んだ本棚。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;13&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;13&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;13&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Còn có dụng cụ văn phòng được sắp ngay ngắn.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>きちんと並べられた文具類もいくつかある。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;14&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;14&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;14&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Bút dạ đỏ đây rồi. Được.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>赤のマーカーだ。完璧。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;15&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;15&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;15&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Lấy ${item:ch1.marker} chứ?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>${item:ch1.marker} を取る？</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;16&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;16&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;16&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Lấy</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>取る</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;17&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;17&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;17&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Thôi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>取らない</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event misc_couch</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;18&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;18&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;18&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Chiếc xô-pha lớn. Anh Hiro hay ngủ thiếp ở đây.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>大きなソファー。ヒロがよくここでうたた寝をしている。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event misc_couch_2</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;19&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;19&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;19&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Chiếc đi-văng nhỏ mà bạn từng ưa thích.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>かつてお気に入りだった小さなソファー。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event misc_cupboard</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;20&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;20&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;20&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Cái thùng và cái cây tọa trên chiếc tủ chè.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>戸棚の上に箱と鉢植えが置いてある。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event misc_cupboard2</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;21&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;21&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;21&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Chiếc tủ chè lớn có thể vừa cả một người.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>人がひとり入れそうなほどの大きな戸棚。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event misc_decor</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;22&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;22&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;22&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Vài cái đĩa trang trí.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>装飾用のお皿がいくつか。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event misc_lamp</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event misc_lightswitch</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event misc_painting</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;23&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;23&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;23&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Bức tranh con mèo đang ngủ.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>眠っている猫の絵。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event misc_painting_inbetween</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;24&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;24&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;24&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Bức tranh con…</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>猫の……</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;25&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;25&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;25&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Ủa? Con mèo này nằm ngủ mà…?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>あれ？　この猫、眠ってなかったっけ……？</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;26&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;26&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;26&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Bức tranh con mèo nhìn chòng chọc vào bạn.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>猫の絵がこちらをじっと見下ろしている。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event misc_papers</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;27&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;27&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;27&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Vài cái hóa đơn.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>請求書。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event misc_pictures</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;28&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;28&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;28&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Vài tấm ảnh các nơi trên thế giới.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>世界各地を写した写真。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;29&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;29&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;29&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Ba mẹ đi chơi suốt…</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>ママとパパはよく旅行に行く……</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;30&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;30&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;30&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Mình còn chẳng biết ba mẹ giờ đang ở đâu.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>今どこにいるのかも知らない。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event misc_plant</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;31&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;31&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;31&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Cái cây cao.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>背の高い植物。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event misc_plant_2</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;32&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;32&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;32&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Cái cây xinh đẹp.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>きれいな植物。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event misc_plant_3</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;33&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;33&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;33&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Cái cây màu hồng.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>ピンク色の植物。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event misc_remote</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;34&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;34&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;34&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Điều khiển TV.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>テレビのリモコン。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;35&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;35&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;35&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Bật TV lên chứ?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>テレビをつける？</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;36&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;36&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;36&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Bật</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>つける</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;37&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;37&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;37&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Thôi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>つけない</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;38&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;38&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;38&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Tắt TV đi chứ?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>テレビを消す？</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;39&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;39&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;39&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Tắt</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>消す</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;40&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;40&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;40&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Thôi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>消さない</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event misc_shelf</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;41&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;41&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;41&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Cái tủ chứa chủ yếu là đồ thủy tinh.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>主にガラス製品が入った棚。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;42&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;42&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;42&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Nếu cái này ngã đè lên ai thì chắc chắn là đau đấy.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>倒れてきたら間違いなくケガすると思う。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event misc_shelf_2</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;43&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;43&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;43&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Mấy cuốn sách về làm vườn.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>ガーデニングに関する本が何冊か。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event misc_shoerack</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;44&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;44&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;44&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Giá để giày, có cả đống giày đủ loại màu sắc.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>様々な色の靴が並んだ靴箱。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event misc_slippers</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;45&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;45&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;45&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Dép để đi trong nhà.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>履き替える用のスリッパ。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event misc_table_1</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;46&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;46&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;46&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Các dấu chân xuất phát từ bên dưới bàn…</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>足跡は机の下から出ている……</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;47&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;47&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;47&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Nhưng bên dưới lại không có gì…</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>しかし、下には何もない。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;48&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;48&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;48&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Chiếc bàn ăn gia đình.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>家族のダイニングテーブル。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;49&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;49&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;49&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Nhà mình không ngồi ăn đây mấy nữa.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>もうここではあまり食事はしない。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event misc_table_2</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;50&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;50&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;50&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Chiếc bàn uống cà-phê. Mấy cái cây đôi khi làm vướng víu.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>ローテーブル。ときどき植物が邪魔になる。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event misc_tracks</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;51&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;51&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;51&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Các dấu chân dẫn ra bên ngoài. Trông không giống chân bình thường…</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>足跡が外に続いている。普通の足には見えない……</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event misc_tv</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;52&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;52&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;52&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Chiếc TV.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>テレビ。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event misc_tv_day</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;53&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;53&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;53&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Này là chương trình về ô-tô... Hay là trailer về video game nhể?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>車の番組だ……それとも、ゲームのCMかな？</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event misc_tv_evening</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;54&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;54&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;54&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Toàn video động vật thôi nhỉ.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>ただの動物番組みたい。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;55&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;55&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;55&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>“Cho bọn nó bánh mì với mèo và bọn nó sẽ không bao giờ phản loạn.”</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>「パンと猫を与えておけば反乱は起きない」。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event misc_tv_night</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;56&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;56&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;56&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Có cái anime về ma pháp thiếu nữ dạo gần đây mình bắt đầu xem.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>最近、魔法少女のアニメを見始めた。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;57&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;57&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;57&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Trên mạng người ta nói về sau đen tối... nhưng coi đến giờ mình chưa thấy gì xấu cả.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>ネットでは暗くなるって言ってるけど……今のところ、特に悪いことは起きてない。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event misc_tv_static</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;58&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;58&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;58&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Làm mình thấy bất an quá… Tắt đi thôi.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>気味が悪い……消そう。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;59&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;59&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;59&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>…</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>……</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event misc_umbrellabasket</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;60&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;60&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;60&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Cái giỏ đựng dù.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>傘立て。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;61&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;61&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;61&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Cái giỏ đựng dù. Hay bị sơ ý đá lăn.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>傘立て。よくうっかり蹴飛ばされる。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event misc_window</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event move_backyard</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;62&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;62&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;62&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Mình ở ngoài đến giờ đủ rồi.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>もう外には十分出た。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event move_bathroom</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event move_exit</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;63&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;63&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;63&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Mình ở ngoài đến giờ đủ rồi.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>もう外には十分出た。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event move_kitchen</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event move_laundry</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;64&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;64&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;64&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Đây là phòng giặt đồ.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>ここは洗濯室。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;65&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;65&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;65&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Mình sẽ không bao giờ hiểu được vì sao cửa khắp nhà lại cần phải khóa.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>なんで家中のドアに鍵をかける必要があるのか、理解できる日は来ないと思う。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;66&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;66&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;66&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Có khi anh Hiro có chìa…</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>ヒロなら鍵を持ってるかも……</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;67&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;67&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;67&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>...nhưng mình không cần gì trong đây cả.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>……でも、この部屋に必要なものはない。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;68&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;68&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;68&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Phòng giặt đồ. Bị khóa rồi.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>洗濯室。鍵がかかっている。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event move_upstairs</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row table:number-rows-repeated="1048409">
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <calcext:conditional-formats>
+          <calcext:conditional-format calcext:target-range-address="Translation.D1:Translation.D1048576">
+            <calcext:condition calcext:apply-style-name="Bad" calcext:value="formula-is(AND(LEN(TRIM([.C1]))&gt;0; LEN(TRIM([.D1]))=0))" calcext:base-cell-address="Translation.D1" />
+          </calcext:conditional-format>
+        </calcext:conditional-formats>
+      </table:table>
+      <table:table table:name="Base">
+        <table:table-column table:style-name="Base-co1" table:default-cell-style-name="Base-ce1" />
+        <table:table-column table:style-name="Base-co2" table:default-cell-style-name="Base-ce2" />
+        <table:table-column table:style-name="Base-co3" table:default-cell-style-name="Base-ce3" />
+        <table:table-column table:style-name="Base-co4" table:default-cell-style-name="Base-ce4" />
+        <table:table-column table:style-name="Base-co5" table:default-cell-style-name="Base-ce5" />
+        <table:table-row>
+          <table:table-cell>
+            <text:p>ordinal</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>key</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>context</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>extra</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>en</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>1</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.ch1_item_shoelaces_get.text.a172bed7661512e706e3da62ceed65ed70e0ba63</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.ch1_item_shoelaces_get.dlg.narrator</text:p>
+          </table:table-cell>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>There's a pair of white shoes with red shoelaces.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>2</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.ch1_item_shoelaces_get.text.40957e7d8cea938d5f600131fe67666d14b2822f</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.ch1_item_shoelaces_get.dlg.narrator</text:p>
+          </table:table-cell>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>The shoelaces could be useful.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>3</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.ch1_item_shoelaces_get.choice.text.d1b186b0fa92a66e50547bdacffa8785c7fd31a5</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.ch1_item_shoelaces_get.choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>topic/question</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Take ${item:ch1.shoelaces}?</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>4</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.ch1_item_shoelaces_get.choice.5397e0583f14f6c88de06b1ef28f460a1fb5b0ae</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.ch1_item_shoelaces_get.choice.Take ${item:ch1.shoelaces}?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Yes</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>5</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.ch1_item_shoelaces_get.choice.816c52fd2bdd94a63cd0944823a6c0aa9384c103</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.ch1_item_shoelaces_get.choice.Take ${item:ch1.shoelaces}?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>No</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>6</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.item_salt_on_door_back.text.32c9aa0ef29cbdc3d781c065a4a0f57fba68afcd</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.item_salt_on_door_back.dlg.narrator</text:p>
+          </table:table-cell>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>It's already done.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>7</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.item_salt_on_door_back.text.8ad658992a9e1817d901db48ac6ac79efa59bc49</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.item_salt_on_door_back.dlg.narrator</text:p>
+          </table:table-cell>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>(You scattered salt on the entrance.)</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>8</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.item_salt_on_door_front.text.32c9aa0ef29cbdc3d781c065a4a0f57fba68afcd</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.item_salt_on_door_front.dlg.narrator</text:p>
+          </table:table-cell>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>It's already done.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>9</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.item_salt_on_door_front.text.8ad658992a9e1817d901db48ac6ac79efa59bc49</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.item_salt_on_door_front.dlg.narrator</text:p>
+          </table:table-cell>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>(You scattered salt on the entrance.)</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>10</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.misc_blood_text.text.fcf12e2f3c2b11be5d3f1df19efb58020c6c0939</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.misc_blood_text.dlg.narrator</text:p>
+          </table:table-cell>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>Something is written here:</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>11</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.misc_blood_text.text.51909b8121db98e0e9640b868e1fd7a6f1ce64e3</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.misc_blood_text.dlg.narrator</text:p>
+          </table:table-cell>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>"When was the last time you ate here? Have you forgotten?"</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>12</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.misc_bookshelf.text.218c664051c000a3a245ce3ef47625ecbda48a91</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.misc_bookshelf.dlg.narrator</text:p>
+          </table:table-cell>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>A bookshelf with random decorative books.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>13</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.misc_bookshelf.text.6da8652ec0b28c456be2ac83a8e27f8229c59c19</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.misc_bookshelf.dlg.narrator</text:p>
+          </table:table-cell>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>There's also a few neatly-aligned office supplies.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>14</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.misc_bookshelf.text.0bd8bb2515ebd36d5679ad174c0a7f982762d468</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.misc_bookshelf.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie blank1</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Red marker. Perfect.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>15</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.misc_bookshelf.choice.text.6464e5bbe5187729210ba4d0a624931c6e66a906</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.misc_bookshelf.choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>topic/question</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Take ${item:ch1.marker}?</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>16</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.misc_bookshelf.choice.5397e0583f14f6c88de06b1ef28f460a1fb5b0ae</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.misc_bookshelf.choice.Take ${item:ch1.marker}?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Yes</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>17</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.misc_bookshelf.choice.816c52fd2bdd94a63cd0944823a6c0aa9384c103</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.misc_bookshelf.choice.Take ${item:ch1.marker}?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>No</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>18</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.misc_couch.text.9c395b69cd3b03e3419dacaca0febef0e548e8f5</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.misc_couch.dlg.narrator</text:p>
+          </table:table-cell>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>A large sofa. Hiro often falls asleep here.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>19</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.misc_couch_2.text.e3cd8029ae0e193ed3d3659ad9f312e69bb1dd8f</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.misc_couch_2.dlg.narrator</text:p>
+          </table:table-cell>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>A small couch that used to be your favorite.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>20</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.misc_cupboard.text.aa31986e3cd96a6b64e6df9605bbaaa8627fc5f3</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.misc_cupboard.dlg.narrator</text:p>
+          </table:table-cell>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>A box and a plant sit on top of the cupboard.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>21</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.misc_cupboard2.text.05794dcbaf28d9115746a94ff13dec9f326ea3e9</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.misc_cupboard2.dlg.narrator</text:p>
+          </table:table-cell>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>A large cupboard that could fit a person.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>22</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.misc_decor.text.c543e3e986f16189efaef4e77331a3daaa00c253</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.misc_decor.dlg.narrator</text:p>
+          </table:table-cell>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>Some decorative plates.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>23</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.misc_painting.text.6966ae7fad664657fd9fa88fa54ee02370ab5c09</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.misc_painting.dlg.narrator</text:p>
+          </table:table-cell>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>A painting of a sleeping cat.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>24</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.misc_painting_inbetween.text.88ad2966bbfa36ff6005716f6a55be938f05de85</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.misc_painting_inbetween.dlg.narrator</text:p>
+          </table:table-cell>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>A painting of...</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>25</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.misc_painting_inbetween.text.3b00f600dd37a768ea32fa9060f2ace0aa126be1</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.misc_painting_inbetween.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie blank8</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Huh? Wasn't this cat sleeping...?</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>26</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.misc_painting_inbetween.text.01261e42f493dd88206c9288089cbfa0b0216a26</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.misc_painting_inbetween.dlg.narrator</text:p>
+          </table:table-cell>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>A painting of a cat stares you down.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>27</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.misc_papers.text.e29d8fd91956b5a8c72e6fa728d5431fb9bb33a0</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.misc_papers.dlg.narrator</text:p>
+          </table:table-cell>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>Some bills.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>28</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.misc_pictures.text.8a9974a37c79a50e13d4b11efd6ab6ee30964acf</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.misc_pictures.dlg.narrator</text:p>
+          </table:table-cell>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>Some pictures of places around the world.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>29</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.misc_pictures.text.4771a1cfc074200c677e8f742f8cab51b4455814</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.misc_pictures.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie blank3</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Mother and father go on trips a lot...</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>30</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.misc_pictures.text.2d847e5bc9cc32705800dc0d875dc92b2691539f</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.misc_pictures.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie blank2</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>I don't even know where they are right now.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>31</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.misc_plant.text.5b3aafd4a35cb35fb83ff98d5b025b1d15147592</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.misc_plant.dlg.narrator</text:p>
+          </table:table-cell>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>A tall plant.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>32</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.misc_plant_2.text.4acdde26c52c7174218c3c6b3de106db787c2577</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.misc_plant_2.dlg.narrator</text:p>
+          </table:table-cell>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>A pretty plant.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>33</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.misc_plant_3.text.7447017a2fcfa6a7566022235e6b987cb00750b2</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.misc_plant_3.dlg.narrator</text:p>
+          </table:table-cell>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>A pink plant.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>34</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.misc_remote.text.88293847f7a8fccbdb1799400e61ecbd8adc9310</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.misc_remote.dlg.narrator</text:p>
+          </table:table-cell>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>The TV remote.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>35</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.misc_remote.choice.text.eae258d69bc87088acd2135d5cc7f9cc63cca945</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.misc_remote.choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>topic/question</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Turn the TV on?</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>36</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.misc_remote.choice.5397e0583f14f6c88de06b1ef28f460a1fb5b0ae</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.misc_remote.choice.Turn the TV on?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Yes</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>37</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.misc_remote.choice.816c52fd2bdd94a63cd0944823a6c0aa9384c103</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.misc_remote.choice.Turn the TV on?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>No</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>38</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.misc_remote.choice.text.711bdf44c236f8d1fecc32dce3749aa1303218ba</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.misc_remote.choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>topic/question</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Turn the TV off?</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>39</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.misc_remote.choice.5397e0583f14f6c88de06b1ef28f460a1fb5b0ae</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.misc_remote.choice.Turn the TV off?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Yes</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>40</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.misc_remote.choice.816c52fd2bdd94a63cd0944823a6c0aa9384c103</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.misc_remote.choice.Turn the TV off?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>No</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>41</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.misc_shelf.text.8b02dee15aa8572510d98d1df659bda91fdbed12</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.misc_shelf.dlg.narrator</text:p>
+          </table:table-cell>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>A shelf containing mainly glassware.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>42</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.misc_shelf.text.08e78da686a44f7821945dd46d6a089f3c2785f7</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.misc_shelf.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie concerned6</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>It would definitely hurt if this fell on top of somebody.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>43</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.misc_shelf_2.text.e6974ea623dea6380f68c813761241a4176f6969</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.misc_shelf_2.dlg.narrator</text:p>
+          </table:table-cell>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>Some books on gardening.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>44</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.misc_shoerack.text.e69192eb25be5726d4f998d6c66b492968f5ac05</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.misc_shoerack.dlg.narrator</text:p>
+          </table:table-cell>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>A shoe rack, full of shoes of various colors.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>45</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.misc_slippers.text.b83226d62dc0a2405a03dab42f0bbda7dd251544</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.misc_slippers.dlg.narrator</text:p>
+          </table:table-cell>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>Slippers to change into.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>46</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.misc_table_1.text.80dc041378fc726f4b5791dea53484792a1e8cdc</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.misc_table_1.dlg.narrator</text:p>
+          </table:table-cell>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>The footprints come from under the table...</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>47</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.misc_table_1.text.e10f20ba1cbcc9358b2ef81d4e2b5718fb5ac7ac</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.misc_table_1.dlg.narrator</text:p>
+          </table:table-cell>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>But there's nothing there.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>48</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.misc_table_1.text.616f93e475b462516a41a35af96d6c66caa97ab9</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.misc_table_1.dlg.narrator</text:p>
+          </table:table-cell>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>The family dining table.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>49</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.misc_table_1.text.cef79822739c74831b09d782fe1ad1dc770cfb16</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.misc_table_1.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie blank2</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>We don't eat here as much anymore.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>50</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.misc_table_2.text.a8e1a61ecd5068f958f8928e6623375be7b5bf89</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.misc_table_2.dlg.narrator</text:p>
+          </table:table-cell>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>A coffee table. The plants get in the way sometimes.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>51</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.misc_tracks.text.608c5fb7f65a6f8e82ee1e407530a071c022d082</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.misc_tracks.dlg.narrator</text:p>
+          </table:table-cell>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>Footprints leading outside. They don't look like normal feet...</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>52</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.misc_tv.text.be87f1259b039b60ce6d0037e410c7fc406b5db3</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.misc_tv.dlg.narrator</text:p>
+          </table:table-cell>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>A TV.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>53</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.misc_tv_day.text.ecb57306604d658d937e426a30ac38a401d8d32e</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.misc_tv_day.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>It's a program about cars... Or is it a trailer for a video game?</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>54</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.misc_tv_evening.text.3e641a1486cdd8ef510053789e543c8d61ca2f1c</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.misc_tv_evening.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie blank1</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Just animal videos, I guess.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>55</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.misc_tv_evening.text.ea29ab15200461f9b87613d19ca13b808db9452e</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.misc_tv_evening.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie blank2</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>"Give them bread and cats and they will never revolt."</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>56</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.misc_tv_night.text.839296a81dbd210a3766ba965c0ccd88597ffb25</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.misc_tv_night.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>There's an anime about magical girls I recently started watching.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>57</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.misc_tv_night.text.607873a38d6809b47f56448a81cfc9b3f6d2faa8</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.misc_tv_night.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>People on the net say it gets dark... but I haven't seen anything bad so far.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>58</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.misc_tv_static.text.6a90613d7616ec0707205f4ceca0fc9783d9669a</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.misc_tv_static.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie concerned5</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>This is unsettling... Let's turn it off.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>59</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.misc_tv_static.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.misc_tv_static.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie concerned6</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>...</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>60</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.misc_umbrellabasket.text.b385026766d38380f1b06522cdff83fc67328538</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.misc_umbrellabasket.dlg.narrator</text:p>
+          </table:table-cell>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>An umbrella basket.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>61</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.misc_umbrellabasket.text.e0a217717230ce81e1187e97bf0ca254fbec0208</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.misc_umbrellabasket.dlg.narrator</text:p>
+          </table:table-cell>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>An umbrella basket. It often gets kicked around by accident.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>62</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.move_backyard.text.863d3d4244cadafa39c0fa4cb9dad780f3d80dc9</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.move_backyard.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie disappointed2</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>I've been outside enough for now.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>63</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.move_exit.text.863d3d4244cadafa39c0fa4cb9dad780f3d80dc9</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.move_exit.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie disappointed2</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>I've been outside enough for now.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>64</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.move_laundry.text.5ba6157e1b108d8856d23da7dd7ea1e189bd195c</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.move_laundry.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie blank1</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>This is the laundry room.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>65</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.move_laundry.text.e25f2631f929e27f89d0058974973210ec203910</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.move_laundry.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie annoyed</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>I'll never understand why doors around the house need to be locked.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>66</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.move_laundry.text.21921e7c8a84c7dcda578805b886f28faf2181af</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.move_laundry.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie blank2</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Maybe Hiro has the key...</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>67</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.move_laundry.text.88ddc6f472d1f9eddfc5a0744adead056b5f86a2</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.move_laundry.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie default</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>...but I don't need anything from there.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>68</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Home_1F_Livingroom.move_laundry.text.2ba32813451e7be829dda3243e25b37a6919d25b</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Home_1F_Livingroom.move_laundry.dlg.narrator</text:p>
+          </table:table-cell>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>The laundry room. It's locked.</text:p>
+          </table:table-cell>
+        </table:table-row>
+      </table:table>
+      <table:table table:name="Config">
+        <table:table-column table:style-name="Config-co1" table:default-cell-style-name="Config-ce1" />
+        <table:table-column table:style-name="Config-co2" table:default-cell-style-name="Config-ce2" />
+        <table:table-column table:style-name="Config-co3" table:default-cell-style-name="Config-ce3" />
+        <table:table-column table:style-name="Config-co4" table:default-cell-style-name="Config-ce4" />
+        <table:table-row>
+          <table:table-cell>
+            <text:p>UseContextKey</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>0</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>KeyIndex</text:p>
+          </table:table-cell>
+          <table:table-cell table:formula="of:=IF(VLOOKUP(&quot;UseContextKey&quot;;[.$A:.$B];2;0) = 0; 2; 3)"></table:table-cell>
+        </table:table-row>
+      </table:table>
+      <table:named-expressions />
+    </office:spreadsheet>
+  </office:body>
+</office:document>

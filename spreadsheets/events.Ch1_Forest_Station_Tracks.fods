@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="utf-8"?>
+<office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
+  <office:automatic-styles>
+    <style:style style:name="Translation-co1" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="2.258cm" />
+    </style:style>
+    <style:style style:name="Translation-ce1" style:family="table-cell">
+      <style:table-cell-properties style:vertical-align="top" />
+    </style:style>
+    <style:style style:name="Translation-co2" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="6.29cm" />
+    </style:style>
+    <style:style style:name="Translation-ce2" style:family="table-cell">
+      <style:table-cell-properties style:vertical-align="top" />
+    </style:style>
+    <style:style style:name="Translation-co3" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="9.613cm" />
+    </style:style>
+    <style:style style:name="Translation-ce3" style:family="table-cell">
+      <style:table-cell-properties fo:wrap-option="wrap" style:vertical-align="top" />
+    </style:style>
+    <style:style style:name="Translation-co4" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="9.613cm" />
+    </style:style>
+    <style:style style:name="Translation-ce4" style:family="table-cell">
+      <style:table-cell-properties fo:wrap-option="wrap" style:vertical-align="top" />
+      <style:map style:condition="is-true-formula(AND(LEN(TRIM([.C1]))&gt;0; LEN(TRIM([.D1]))=0))" style:apply-style-name="Bad" style:base-cell-address="Translation.D1" />
+    </style:style>
+    <style:style style:name="Translation-co5" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="9.613cm" />
+    </style:style>
+    <style:style style:name="Translation-ce5" style:family="table-cell">
+      <style:table-cell-properties fo:wrap-option="wrap" style:vertical-align="top" />
+    </style:style>
+    <style:style style:name="Base-co1" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="2.258cm" />
+    </style:style>
+    <style:style style:name="Base-ce1" style:family="table-cell" />
+    <style:style style:name="Base-co2" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="2.258cm" />
+    </style:style>
+    <style:style style:name="Base-ce2" style:family="table-cell" />
+    <style:style style:name="Base-co3" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="2.258cm" />
+    </style:style>
+    <style:style style:name="Base-ce3" style:family="table-cell" />
+    <style:style style:name="Base-co4" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="2.258cm" />
+    </style:style>
+    <style:style style:name="Base-ce4" style:family="table-cell" />
+    <style:style style:name="Base-co5" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="2.258cm" />
+    </style:style>
+    <style:style style:name="Base-ce5" style:family="table-cell" />
+    <style:style style:name="Config-co1" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="2.258cm" />
+    </style:style>
+    <style:style style:name="Config-ce1" style:family="table-cell" />
+    <style:style style:name="Config-co2" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="2.258cm" />
+    </style:style>
+    <style:style style:name="Config-ce2" style:family="table-cell" />
+    <style:style style:name="Config-co3" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="2.258cm" />
+    </style:style>
+    <style:style style:name="Config-ce3" style:family="table-cell" />
+    <style:style style:name="Config-co4" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="2.258cm" />
+    </style:style>
+    <style:style style:name="Config-ce4" style:family="table-cell" />
+  </office:automatic-styles>
+  <office:body>
+    <office:spreadsheet>
+      <table:table table:name="Translation">
+        <table:table-column table:style-name="Translation-co1" table:default-cell-style-name="Translation-ce1" />
+        <table:table-column table:style-name="Translation-co2" table:default-cell-style-name="Translation-ce2" />
+        <table:table-column table:style-name="Translation-co3" table:default-cell-style-name="Translation-ce3" />
+        <table:table-column table:style-name="Translation-co4" table:default-cell-style-name="Translation-ce4" />
+        <table:table-column table:style-name="Translation-co5" table:default-cell-style-name="Translation-ce5" />
+        <table:table-row>
+          <table:table-cell>
+            <text:p>context</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>extra</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>en</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>vi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>ja</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event chr_eyecu</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;1&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;1&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;1&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Nó không có vẻ là làm cái gì cả.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>何もしていないように見える。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event event_death_bottom</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event event_death_mid</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event event_death_top</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event item_attack_on_eyecu</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event item_scissors_on_plant_bottom</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event item_scissors_on_plant_mid</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event item_scissors_on_plant_top</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event misc_event_1_1</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event misc_event_1_2</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event misc_event_1_3</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event misc_event_2_1</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event misc_event_2_2</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event misc_event_2_3</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event misc_instructions</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;2&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;2&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;2&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Mấy tấm vé khác cũng mang hình ảnh như vậy.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>他の券にも同じ絵が描いてある。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;3&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;3&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;3&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Bạn lấy một số từ cái máy phát vé.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>発券機から券を取った。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event misc_plant</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;4&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;4&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;4&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Ở chính giữa đường ray là cái cây trồng chậu tọa một cách nguy hiểm.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>鉢植えが危険にも線路の真ん中にたたずんでいる。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event misc_plant_bottom</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event misc_plant_mid</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event misc_plant_top</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event misc_tracks_end</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;5&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;5&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;5&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Đường ray đến đây là kết thúc.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>線路はここで終わっている。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event move_back</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;6&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;6&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;6&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Mình chưa bỏ cuộc đâu... Mình biết là mình giải được.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>まだ諦めない……きっと解けるはず。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;7&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;7&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;7&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Mấy tấm vé từ cái máy phát vé chắc hẳn có gợi ý.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>発券機の券にヒントがあるかも。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event move_next</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event on_enter_save</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row table:number-rows-repeated="1048519">
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <calcext:conditional-formats>
+          <calcext:conditional-format calcext:target-range-address="Translation.D1:Translation.D1048576">
+            <calcext:condition calcext:apply-style-name="Bad" calcext:value="formula-is(AND(LEN(TRIM([.C1]))&gt;0; LEN(TRIM([.D1]))=0))" calcext:base-cell-address="Translation.D1" />
+          </calcext:conditional-format>
+        </calcext:conditional-formats>
+      </table:table>
+      <table:table table:name="Base">
+        <table:table-column table:style-name="Base-co1" table:default-cell-style-name="Base-ce1" />
+        <table:table-column table:style-name="Base-co2" table:default-cell-style-name="Base-ce2" />
+        <table:table-column table:style-name="Base-co3" table:default-cell-style-name="Base-ce3" />
+        <table:table-column table:style-name="Base-co4" table:default-cell-style-name="Base-ce4" />
+        <table:table-column table:style-name="Base-co5" table:default-cell-style-name="Base-ce5" />
+        <table:table-row>
+          <table:table-cell>
+            <text:p>ordinal</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>key</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>context</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>extra</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>en</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>1</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Station_Tracks.chr_eyecu.text.70e9cd53f6f6c77e93ea279bcccd60194e8cc0f2</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Station_Tracks.chr_eyecu.dlg.narrator</text:p>
+          </table:table-cell>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>It doesn't seem to be doing anything.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>2</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Station_Tracks.misc_instructions.text.2d52e953f6fa4d2e224df9ff74d97e9e82ae58c1</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Station_Tracks.misc_instructions.dlg.narrator</text:p>
+          </table:table-cell>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>The other tickets contain the same image.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>3</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Station_Tracks.misc_instructions.text.f3fb5e9f47d1e64f09b7186caeeb44d7bb1c7297</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Station_Tracks.misc_instructions.dlg.narrator</text:p>
+          </table:table-cell>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>You take a number from the ticket dispenser.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>4</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Station_Tracks.misc_plant.text.c48dd6420421296c2e05619e971208893790f22d</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Station_Tracks.misc_plant.dlg.narrator</text:p>
+          </table:table-cell>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>A potted plant sits dangerously in the middle of the tracks.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>5</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Station_Tracks.misc_tracks_end.text.a117cab9cc271e60ecd119505b077713c5e0407c</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Station_Tracks.misc_tracks_end.dlg.narrator</text:p>
+          </table:table-cell>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>The tracks end here.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>6</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Station_Tracks.move_back.text.10c973b22667954c4b2dba4f2e2c420e8facbde6</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Station_Tracks.move_back.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie reflective8</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>I'm not giving up just yet... I know I can solve this.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>7</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Station_Tracks.move_back.text.82394a3999e56b461d5c340115e68b824c2ad914</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Station_Tracks.move_back.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie reflective6</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>The tickets from the dispenser probably contain a hint.</text:p>
+          </table:table-cell>
+        </table:table-row>
+      </table:table>
+      <table:table table:name="Config">
+        <table:table-column table:style-name="Config-co1" table:default-cell-style-name="Config-ce1" />
+        <table:table-column table:style-name="Config-co2" table:default-cell-style-name="Config-ce2" />
+        <table:table-column table:style-name="Config-co3" table:default-cell-style-name="Config-ce3" />
+        <table:table-column table:style-name="Config-co4" table:default-cell-style-name="Config-ce4" />
+        <table:table-row>
+          <table:table-cell>
+            <text:p>UseContextKey</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>1</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>KeyIndex</text:p>
+          </table:table-cell>
+          <table:table-cell table:formula="of:=IF(VLOOKUP(&quot;UseContextKey&quot;;[.$A:.$B];2;0) = 0; 2; 3)"></table:table-cell>
+        </table:table-row>
+      </table:table>
+      <table:named-expressions />
+    </office:spreadsheet>
+  </office:body>
+</office:document>

@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="utf-8"?>
+<office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
+  <office:automatic-styles>
+    <style:style style:name="Translation-co1" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="5.228cm" />
+    </style:style>
+    <style:style style:name="Translation-ce1" style:family="table-cell">
+      <style:table-cell-properties fo:wrap-option="no-wrap" style:vertical-align="top" />
+    </style:style>
+    <style:style style:name="Translation-co2" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="11.227cm" />
+    </style:style>
+    <style:style style:name="Translation-ce2" style:family="table-cell">
+      <style:table-cell-properties fo:wrap-option="no-wrap" style:vertical-align="top" />
+    </style:style>
+    <style:style style:name="Translation-co3" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="11.227cm" />
+    </style:style>
+    <style:style style:name="Translation-ce3" style:family="table-cell">
+      <style:table-cell-properties fo:wrap-option="wrap" style:vertical-align="top" />
+      <style:map style:condition="is-true-formula(AND(LEN(TRIM([.B1]))&gt;0; LEN(TRIM([.C1]))=0))" style:apply-style-name="Bad" style:base-cell-address="Translation.C1" />
+    </style:style>
+    <style:style style:name="Translation-co4" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="11.227cm" />
+    </style:style>
+    <style:style style:name="Translation-ce4" style:family="table-cell">
+      <style:table-cell-properties fo:wrap-option="wrap" style:vertical-align="top" />
+    </style:style>
+    <style:style style:name="Base-co1" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="2.258cm" />
+    </style:style>
+    <style:style style:name="Base-ce1" style:family="table-cell" />
+    <style:style style:name="Base-co2" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="2.258cm" />
+    </style:style>
+    <style:style style:name="Base-ce2" style:family="table-cell" />
+  </office:automatic-styles>
+  <office:body>
+    <office:spreadsheet>
+      <table:table table:name="Translation">
+        <table:table-column table:style-name="Translation-co1" table:default-cell-style-name="Translation-ce1" />
+        <table:table-column table:style-name="Translation-co2" table:default-cell-style-name="Translation-ce2" />
+        <table:table-column table:style-name="Translation-co3" table:default-cell-style-name="Translation-ce3" />
+        <table:table-column table:style-name="Translation-co4" table:default-cell-style-name="Translation-ce4" />
+        <table:table-row>
+          <table:table-cell>
+            <text:p>key</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>en</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>vi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>ja</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;tutorials.name.battle&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;tutorials.name.battle&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Chiến đấu</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>戦闘</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;tutorials.text.battle&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;tutorials.text.battle&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Di chuyển loanh quanh để né gai!</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>動き回ってトゲを避けよう！</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;tutorials.name.documents&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;tutorials.name.documents&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Tài liệu</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>書類</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;tutorials.text.documents&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;tutorials.text.documents&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Giấy tờ và ghi chép được cất giữ ở cuốn vở trong kho đồ của bạn.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>書類やメモはインベントリ内のノートに保管される。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;tutorials.name.hiding&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;tutorials.name.hiding&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Ẩn nấp</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>隠れる</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;tutorials.text.hiding&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;tutorials.text.hiding&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Nấp vào bụi cây bằng {0} để tránh bị bắt.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>{0}で茂みに隠れて、捕まらないようにしよう。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;tutorials.name.interaction_lacie&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;tutorials.name.interaction_lacie&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Tương tác</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>インタラクト</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;tutorials.text.interaction_lacie&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;tutorials.text.interaction_lacie&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Bấm {0} để tương tác với môi trường.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>{0}で周囲の人や物に対して行動</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;tutorials.name.itemuse_lacie&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;tutorials.name.itemuse_lacie&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Sử dụng đồ</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>アイテムを使う</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;tutorials.text.itemuse_lacie&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;tutorials.text.itemuse_lacie&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Để sử dụng đồ, đứng vào nơi muốn dùng rồi chọn đồ trong menu.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>アイテムを使うには、使いたいものの近くでメニューからアイテムを選択</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;tutorials.name.menu_lacie&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;tutorials.name.menu_lacie&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Mở menu</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>メニューを開く</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;tutorials.text.menu_lacie&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;tutorials.text.menu_lacie&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Bấm {0} để mở menu rồi xem đồ của mình.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>{0}でメニューを開き、アイテムを確認できる</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;tutorials.name.movement_lacie&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;tutorials.name.movement_lacie&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Di chuyển</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>移動</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;tutorials.text.movement_lacie&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;tutorials.text.movement_lacie&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Dùng {0}{1}{2}{3} để di chuyển.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>{0}{1}{2}{3}で移動</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;tutorials.name.running_lacie&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;tutorials.name.running_lacie&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Chạy</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>走る</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;tutorials.text.running_lacie&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;tutorials.text.running_lacie&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Khi đang di chuyển, nhấn giữ {0} để chạy.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>移動中に{0}を押すと走れる</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;tutorials.name.save_lacie&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;tutorials.name.save_lacie&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Lưu phần chơi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>ゲームをセーブする</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;tutorials.text.save_lacie&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;tutorials.text.save_lacie&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Quạ có thể lưu phần chơi cho bạn.</text:p>
+            <text:p>Lưu thường xuyên nhé vì chuyện tương lai không biết được đâu.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>カラスでゲームをセーブできる。未来のことはわからないので、頻繁にセーブしよう</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;tutorials.name.sneaking&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;tutorials.name.sneaking&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Rón rén</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>スニーク</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;tutorials.text.sneaking&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;tutorials.text.sneaking&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Chạy sẽ khiến bạn dễ bị phát hiện hơn. Nhấn giữ {0} để lẻn qua kẻ địch.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>走ると見つかりやすくなる。{0}を押しながら移動して、敵をやり過ごそう</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;tutorials.name.timer&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;tutorials.name.timer&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Sự kiện Tính giờ</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>時間制限イベント</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;tutorials.text.timer&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;tutorials.text.timer&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Bắt chuyến xe buýt trước khi hết thời gian!</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>時間切れになる前にバスに乗ろう！</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row table:number-rows-repeated="1048541">
+          <table:table-cell table:number-columns-repeated="4" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="4" />
+        </table:table-row>
+        <calcext:conditional-formats>
+          <calcext:conditional-format calcext:target-range-address="Translation.C1:Translation.C1048576">
+            <calcext:condition calcext:apply-style-name="Bad" calcext:value="formula-is(AND(LEN(TRIM([.B1]))&gt;0; LEN(TRIM([.C1]))=0))" calcext:base-cell-address="Translation.C1" />
+          </calcext:conditional-format>
+        </calcext:conditional-formats>
+      </table:table>
+      <table:table table:name="Base">
+        <table:table-column table:style-name="Base-co1" table:default-cell-style-name="Base-ce1" />
+        <table:table-column table:style-name="Base-co2" table:default-cell-style-name="Base-ce2" />
+        <table:table-row>
+          <table:table-cell>
+            <text:p>key</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>en</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>tutorials.name.battle</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Battle</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>tutorials.text.battle</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Move around to avoid the spikes!</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>tutorials.name.documents</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Documents</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>tutorials.text.documents</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Your papers and notes are stored in the notebook in your inventory.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>tutorials.name.hiding</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Hiding</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>tutorials.text.hiding</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Hide in the bushes with {0} to avoid being caught.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>tutorials.name.interaction_lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Interacting</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>tutorials.text.interaction_lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Press {0} to interact with the environment</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>tutorials.name.itemuse_lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Using Items</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>tutorials.text.itemuse_lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>To use an item, stand close and select the item from the menu</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>tutorials.name.menu_lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Opening the Menu</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>tutorials.text.menu_lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Press {0} to open the menu and see your items</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>tutorials.name.movement_lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Moving</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>tutorials.text.movement_lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Use {0}{1}{2}{3} to move</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>tutorials.name.running_lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Running</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>tutorials.text.running_lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>While moving, hold {0} to run</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>tutorials.name.save_lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Saving the Game</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>tutorials.text.save_lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Crows can save your game. Save often, since the future is uncertain</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>tutorials.name.sneaking</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Sneaking</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>tutorials.text.sneaking</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Running will make you easier to spot. Hold {0} to sneak past enemies</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>tutorials.name.timer</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Timed Event</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>tutorials.text.timer</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Get to the bus before the time runs out!</text:p>
+          </table:table-cell>
+        </table:table-row>
+      </table:table>
+      <table:named-expressions />
+    </office:spreadsheet>
+  </office:body>
+</office:document>

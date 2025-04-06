@@ -1,0 +1,2692 @@
+<?xml version="1.0" encoding="utf-8"?>
+<office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
+  <office:automatic-styles>
+    <style:style style:name="Translation-co1" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="8.849cm" />
+    </style:style>
+    <style:style style:name="Translation-ce1" style:family="table-cell">
+      <style:table-cell-properties fo:wrap-option="no-wrap" style:vertical-align="top" />
+    </style:style>
+    <style:style style:name="Translation-co2" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="9.89cm" />
+    </style:style>
+    <style:style style:name="Translation-ce2" style:family="table-cell">
+      <style:table-cell-properties fo:wrap-option="wrap" style:vertical-align="top" />
+    </style:style>
+    <style:style style:name="Translation-co3" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="9.89cm" />
+    </style:style>
+    <style:style style:name="Translation-ce3" style:family="table-cell">
+      <style:table-cell-properties fo:wrap-option="wrap" style:vertical-align="top" />
+      <style:map style:condition="is-true-formula(AND(LEN(TRIM([.B1]))&gt;0; LEN(TRIM([.C1]))=0))" style:apply-style-name="Bad" style:base-cell-address="Translation.C1" />
+    </style:style>
+    <style:style style:name="Translation-co4" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="9.89cm" />
+    </style:style>
+    <style:style style:name="Translation-ce4" style:family="table-cell">
+      <style:table-cell-properties fo:wrap-option="wrap" style:vertical-align="top" />
+    </style:style>
+    <style:style style:name="Base-co1" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="2.258cm" />
+    </style:style>
+    <style:style style:name="Base-ce1" style:family="table-cell" />
+    <style:style style:name="Base-co2" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="2.258cm" />
+    </style:style>
+    <style:style style:name="Base-ce2" style:family="table-cell" />
+  </office:automatic-styles>
+  <office:body>
+    <office:spreadsheet>
+      <table:table table:name="Translation">
+        <table:table-column table:style-name="Translation-co1" table:default-cell-style-name="Translation-ce1" />
+        <table:table-column table:style-name="Translation-co2" table:default-cell-style-name="Translation-ce2" />
+        <table:table-column table:style-name="Translation-co3" table:default-cell-style-name="Translation-ce3" />
+        <table:table-column table:style-name="Translation-co4" table:default-cell-style-name="Translation-ce4" />
+        <table:table-row>
+          <table:table-cell>
+            <text:p>key</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>en</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>vi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>ja</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.go_to_room&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.go_to_room&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Đi về phòng</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>部屋に行く</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.go_to_room&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.go_to_room&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Hôm nay phải chấm dứt thôi. Mình muốn lên giường nằm.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>今日はもう終わりにしよう。ベッドで横になりたい。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.ritual_items&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.ritual_items&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Đi kiếm đồ làm nghi thức</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>儀式のアイテムを探す</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.ritual_items&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.ritual_items&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Mình nên đi thu thập mấy món đồ mình cần cho nghi thức. Không khó lắm đâu nhỉ.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>儀式に必要なアイテムを集めないといけない。そんなに苦労はしないはず。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.paint.ch1.ritual_items&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.paint.ch1.ritual_items&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Cái gì đó màu đỏ để vẽ</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>赤い描くもの</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.paint.ch1.ritual_items&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.paint.ch1.ritual_items&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Mình cần kiếm cái gì đó màu đỏ để sơn hoặc đánh dấu lên mặt trước căn nhà.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>玄関に印を描くための赤いものを見つける必要がある。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ribbon.ch1.ritual_items&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ribbon.ch1.ritual_items&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Cái gì đó màu đỏ để buộc</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>赤い結ぶもの</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ribbon.ch1.ritual_items&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ribbon.ch1.ritual_items&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Mình cần kiếm cái gì đó màu đỏ để buộc vào dây thoại.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>電話のコードに結ぶための、赤いものを見つける必要がある。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.prepare_ritual&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.prepare_ritual&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Chuẩn bị nghi thức</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>儀式の準備をする</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.prepare_ritual&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.prepare_ritual&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Mình cần chuẩn bị nghi thức trước khi đêm đến.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>夜になる前に儀式の準備をする必要がある。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.paint_front.ch1.prepare_ritual&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.paint_front.ch1.prepare_ritual&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Vẽ biểu tượng</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>印を描く</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.paint_front.ch1.prepare_ritual&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.paint_front.ch1.prepare_ritual&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Mình cần vẽ một biểu tượng lên cửa trước của căn nhà. Mong là không ai nhìn thấy...</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>玄関の扉に印を描く必要がある。誰にも見られないといいけど……</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.tie_ribbon.ch1.prepare_ritual&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.tie_ribbon.ch1.prepare_ritual&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Buộc sợi lên dây thoại</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>電話の線に糸を結ぶ</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.tie_ribbon.ch1.prepare_ritual&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.tie_ribbon.ch1.prepare_ritual&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Mình cần buộc ruy-băng đỏ lên dây thoại của điện thoại bàn trong phòng bếp.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>キッチンの固定電話のコードに赤いリボンを結ぶ必要がある。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.set_alarm_clock.ch1.prepare_ritual&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.set_alarm_clock.ch1.prepare_ritual&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Đặt đồng hồ báo thức</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>目覚ましをセットする</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.set_alarm_clock.ch1.prepare_ritual&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.set_alarm_clock.ch1.prepare_ritual&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Mình cần đặt báo thức lúc nửa đêm.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>目覚まし時計を夜12時にセットする必要がある。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.revert_ritual_instructions&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.revert_ritual_instructions&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Lấy hướng dẫn đảo ngược nghi thức</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>儀式を取り消す手順を確認する</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.revert_ritual_instructions&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.revert_ritual_instructions&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Mình làm nghi thức hỏng rồi. Cần phải làm theo các bước mình có chép lại trong PC để hoàn tác.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>儀式は失敗した。パソコンに残してある手順に従って取り消さないといけない。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.revert_ritual_execution&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.revert_ritual_execution&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Hoàn tác nghi thức</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>儀式を取り消す</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.revert_ritual_execution&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.revert_ritual_execution&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Vì an toàn bản thân, mình cần hủy bỏ cái nghi thức.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>自分の安全のために、儀式を取り消す必要がある。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.remove_ribbon.ch1.revert_ritual_execution&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.remove_ribbon.ch1.revert_ritual_execution&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Tháo sợi dây đỏ</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>赤い糸をほどく</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.salt_front.ch1.revert_ritual_execution&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.salt_front.ch1.revert_ritual_execution&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Rắc muối cửa trước</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>玄関の扉に塩をまく</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.salt_back.ch1.revert_ritual_execution&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.salt_back.ch1.revert_ritual_execution&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Rắc muối cửa sau</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>裏口の扉に塩をまく</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.salt_garage.ch1.revert_ritual_execution&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.salt_garage.ch1.revert_ritual_execution&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Rắc muối cửa ga-ra</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>ガレージのシャッターに塩をまく</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.revert_ritual_sleep&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.revert_ritual_sleep&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Đi ngủ</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>眠る</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.revert_ritual_sleep&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.revert_ritual_sleep&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Đảo ngược nghi thức đã hoàn tất. Không còn gì làm ngoài việc lên giường đi ngủ.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>儀式の取り消しは終わった。あとはベッドで眠るだけ。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.talk_to_brother&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.talk_to_brother&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Nói chuyện với anh Hiro</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>ヒロと話す</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.talk_to_brother&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.talk_to_brother&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Mình cần bảo anh Hiro rời khỏi nhà...</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>家を離れていてほしいってヒロに伝えないと……</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.go_to_sleep&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.go_to_sleep&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Lên giường</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>ベッドに入る</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.go_to_sleep&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.go_to_sleep&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Xem ra mình cần nằm trên giường đến khi báo thức reo.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>どうやら、目覚ましが鳴るまでベッドにいる必要があるらしい。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.dial_number&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.dial_number&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Gọi xe buýt</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>バスを呼ぶ</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.dial_number&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.dial_number&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Mình cần gọi xe buýt. Số điện thoại phải quay là 999281#0.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>電話でバスを呼ばないといけない。番号は999281#0。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.take_bus&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.take_bus&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Đáp chuyến xe buýt</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>バスに乗る</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.take_bus&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.take_bus&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Lên xe buýt. Nhanh nhanh!</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>バスに乗る。急いで！</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.explore_parkinglot&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.explore_parkinglot&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Dò xét loanh quanh</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>あたりを見て回る</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.explore_parkinglot&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.explore_parkinglot&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Mình đến được nơi nào đó rồi. Làm gì giờ?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>どこかに着いた。これからどうしよう？</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.explore_forest&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.explore_forest&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Khám phá khu rừng</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>森を探索する</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.explore_forest&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.explore_forest&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Mình tới nơi rồi. Có tìm được ai giúp đỡ không đây?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>目的地に着いた。誰か助けてくれる人は見つかるかな？</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.rotate_signs&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.rotate_signs&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Xoay các tấm biển</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>標識を回す</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.rotate_signs&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.rotate_signs&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Nghĩ là mình nếu xoay mấy tấm biển màu lam chỉ về đúng hướng thì có thể mở ra một con đường dẫn đến Cổng Bạch Nhật.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>青い標識を正しい方向に回せば、デイライト・ゲートへの道が開くと思う。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.open_daylight_gate&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.open_daylight_gate&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Mở Cổng Bạch Nhật</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>デイライト・ゲートを開く</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.open_daylight_gate&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.open_daylight_gate&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Có một cánh cổng to bự ngăn cản hành trình của mình. Cần phải tìm cách mở nó ra thôi.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>行く手を阻むゲートがある。開ける方法を見つけないといけない。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.forest_station_sign&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.forest_station_sign&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Hoàn lại tấm biển</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>標識を直す</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.forest_station_sign&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.forest_station_sign&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Chỗ đằng trước trạm tàu bị thiếu mất tấm biển. Nếu tìm thấy nó, mình nên để lại vào chỗ cũ.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>駅の正面の標識がなくなってる。見つけたら、もとの場所に戻さないといけない。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.forest_station_sign_2&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.forest_station_sign_2&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Hoàn lại tấm biển</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>標識を直す</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.forest_station_sign_2&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.forest_station_sign_2&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Mình tìm thấy tấm biển màu lam. Nên đặt nó lại vị trí đằng trước trạm tàu thôi.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>青い標識を見つけた。駅の正面にある柱に戻さないといけない。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.forest_station_paths&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.forest_station_paths&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Lựa đúng con đường</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>正しい道を選ぶ</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.forest_station_paths&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.forest_station_paths&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Có ba con đường phía trước mình, và một tấm vé làm gợi ý để chọn đúng con đường...</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>目の前には3本の道と、選ぶヒントになるチケット……</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.locked_site_enter&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.locked_site_enter&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Tiến vào Khu Bị khóa</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>封鎖区域に入る</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.locked_site_enter&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.locked_site_enter&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Xem ra đường duy nhất lên phía bắc có khi là đi qua Khu Bị khóa rồi.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>北へ行くには、封鎖区域を抜けるしかないらしい。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.locked_site_light&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.locked_site_light&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Tìm Nguồn sáng</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>明かりを見つける</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.locked_site_light&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.locked_site_light&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Có vẻ mình sẽ phải cần nguồn sáng để bước vào Khu Bị khóa.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>どうやら、封鎖区域に入るには明かりが必要らしい。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.locked_site_keys&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.locked_site_keys&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Tìm 3 chiếc chìa khóa</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>3つの鍵を見つける</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.locked_site_keys&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.locked_site_keys&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Mình tìm ra manh mối vị trí của ba chiếc chìa để mở mấy cái khóa móc:</text:p>
+            <text:p>-Đằng sau cái cây</text:p>
+            <text:p>-Trong chậu cây xương rồng</text:p>
+            <text:p>-Dưới thảm ngụy trang</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>南京錠の3つの鍵がある場所の手がかりを見つけた。</text:p>
+            <text:p>・木の後ろ</text:p>
+            <text:p>・サボテンの鉢の中</text:p>
+            <text:p>・偽装したマットの下</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.key_1.ch1.locked_site_keys&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.key_1.ch1.locked_site_keys&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Chìa 1</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>鍵1</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.key_2.ch1.locked_site_keys&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.key_2.ch1.locked_site_keys&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Chìa 2</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>鍵2</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.key_3.ch1.locked_site_keys&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.key_3.ch1.locked_site_keys&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Chìa 3</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>鍵3</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.fairyring_escape&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.fairyring_escape&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Tìm đường thoát</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>出口を見つける</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.fairyring_escape&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.fairyring_escape&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Bạn bị mắc kẹt bên trong vòng yêu tinh rồi. Tìm lối thoát đi!</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>フェアリーリングの中に閉じ込められた。出る方法を見つけないと！</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.kozmo_find_head&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.kozmo_find_head&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Tìm Đầu</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>頭を見つける</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.kozmo_find_head&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.kozmo_find_head&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Kiếm một cái đầu mới cho Kozmo. Lẹ lên, hình như ổng đang nguy!</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>コズモのために新しい頭を探す。急がないと、このままじゃ危なそう！</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.kozmo_give_head&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.kozmo_give_head&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Đưa cái đầu mới cho Kozmo</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>コズモに新しい頭を渡す</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.kozmo_give_head&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.kozmo_give_head&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Kozmo cần cái đầu mới. Nhanh!</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>コズモに新しい頭が必要。急がないと！</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.forest_find_lighthouse&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.forest_find_lighthouse&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Đi tìm Nhà hải đăng</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>灯台を見つける</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.forest_find_lighthouse&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.forest_find_lighthouse&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Tiếp tục hướng lên phía bắc qua khu rừng thì đến lúc nào đó mình sẽ có thể tìm được cái nhà hải đăng.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>森を抜けて北に進めば、どこかで灯台が見つかるはず。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.forest_lakeside_paddles&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.forest_lakeside_paddles&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Kiếm Mái chèo</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>オールを見つける</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.forest_lakeside_paddles&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.forest_lakeside_paddles&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Có cái thuyền mình có thể lên để tiếp tục đi phía Bắc, nhưng cần phải có mái chèo.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>北へ漕いで行けるボートがあるけど、オールが必要。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.forest_lakeside_remove_mermaid&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.forest_lakeside_remove_mermaid&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Tống khứ con quái vật</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>怪物を追い払う</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.forest_lakeside_remove_mermaid&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.forest_lakeside_remove_mermaid&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Có con thuyền mình có thể dùng để tiếp tục về phía Bắc, nhưng có con quái vật đang canh gác nó.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>北へ漕いで行けるボートがあるけど、怪物に守られてる。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.forest_lakeside_take_boat&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.forest_lakeside_take_boat&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Lên Con thuyền</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>ボートに乗る</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.forest_lakeside_take_boat&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.forest_lakeside_take_boat&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Chèo con thuyền đấy có khi là đường duy nhất để đi phía Bắc.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>北への旅路を続けるには、ボートに乗るしかないかもしれない。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.forest_lakeside_caterpillar&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.forest_lakeside_caterpillar&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Tống khứ Con sâu</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>イモムシを始末する</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.forest_lakeside_caterpillar&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.forest_lakeside_caterpillar&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Nếu mình tống khứ nó đi thì tụi ngài sẽ đền đáp cho mình một cái núm cửa...</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>始末したら、蛾のふたりからドアノブがもらえることになってる……</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.forest_lakeside_moths_reward&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.forest_lakeside_moths_reward&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Đi nhận Đền đáp</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>報酬をもらう</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.forest_lakeside_moths_reward&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.forest_lakeside_moths_reward&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Tụi ngài sẽ đền đáp cho mình một cái núm cửa rồi.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>蛾のふたりが報酬としてドアノブをくれるはず。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.forest_lakeside_doorknob&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.forest_lakeside_doorknob&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Sử dụng Cái núm cửa</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>ドアノブを使う</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.forest_lakeside_doorknob&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.forest_lakeside_doorknob&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Mình lấy được cái núm cửa từ tụi ngài rồi. Có vẻ là đường duy nhất mà tiến lên.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>蛾のふたりからドアノブをもらった。進める道はこれしかなさそう。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.facility_escape_cell&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.facility_escape_cell&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Thoát ngục</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>牢獄から脱出する</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.facility_escape_cell&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.facility_escape_cell&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Mình tỉnh dậy trong cái buồng giam kì lạ. Mình cần thoát ra khỏi đây.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>奇妙な独房で目が覚めた。ここから出ないといけない。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.facility_investigate&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.facility_investigate&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Điều tra khu cơ sở</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>施設を探索する</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.facility_investigate&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.facility_investigate&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Khám phá nơi này.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>この場所を探索する。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.facility_go_deeper&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.facility_go_deeper&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Tìm đường để đi xuống sâu hơn</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>より深くに行く方法を見つける</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.facility_go_deeper&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.facility_go_deeper&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Đường duy nhất ra khỏi cái khu cơ sở là bằng cách đi xuống sâu hơn, theo lời Rune là vậy.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>ルーンによると、この施設から出る唯一の道は、より深くへ進むことらしい。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.facility_remove_flood&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.facility_remove_flood&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Hạ mực nước</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>水位を下げる</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.facility_remove_flood&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.facility_remove_flood&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Để đi sâu hơn, mực nước có thể cần được hạ xuống bằng cách nào đó.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>より深くへ行くために、どうにかして水位を下げる必要がある。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.facility_fix_elevator&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.facility_fix_elevator&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Sửa thang máy</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>エレベーターを直す</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.facility_fix_elevator&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.facility_fix_elevator&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Để đi sâu hơn, có lẽ sửa lại cái thang máy là được.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>より深くへ行くために、エレベーターを修理する必要があるかもしれない。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.facility_find_door&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.facility_find_door&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Tìm cánh cửa bị nguyền</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>呪いの扉を探す</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.facility_find_door&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.facility_find_door&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Rune bảo sẽ có cái cánh cửa bị nguyền mà dẫn ra bên ngoài, đâu đó ở sâu vào trong khu cơ sở này.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>ルーンが言うには、この施設のどこか奥深くに、外へつながる呪いの扉があるはずらしい。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.mk_find_exit&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.mk_find_exit&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Tìm lối ra</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>出口を見つける</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.mk_find_exit&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.mk_find_exit&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Tìm đường để ra khỏi căn nhà kì lạ này.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>この奇妙な家を出る方法を探す。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.mk_find_own_items&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.mk_find_own_items&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Tìm đồ đạc bản thân</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>アイテムを探す</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.mk_find_own_items&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.mk_find_own_items&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Tìm hiểu xem đồ đạc của bạn ra sao rồi lấy lại.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>アイテムがどうなったか突き止めて、取り戻す。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.mk_rescue_sai&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.mk_rescue_sai&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Giúp Sai thoát ra</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>サイの脱出を手伝う</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.mk_rescue_sai&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.mk_rescue_sai&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Tìm cách mở khóa cái lồng nhốt Sai.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>サイの檻の鍵を開ける方法を見つける。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.mk_find_items&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.mk_find_items&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Tìm và Giải phong ấn 5 Món đồ Đặc biệt</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>5つの特別なアイテムを見つけて封印を解く</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.mk_find_items&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.mk_find_items&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Chị Dao cất 5 món đồ quan trọng đấy trong nhà. Mình cần tìm và giải phong ấn từng cái.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>ミス・ナイヴズの家には5つの重要なアイテムがある。見つけて、それぞれ封印を解かないといけない。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.mk_ask_spider&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.mk_ask_spider&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Hỏi Nhền Nhện xem làm gì tiếp đây</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>スパイダーに次やるべきことを訊く</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.mk_ask_spider&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.mk_ask_spider&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Mình xong 5 cái món đồ rồi, nhưng không biết làm gì với mấy món này đây.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>5つのアイテムが全部揃ったけど、この後どうすればいいのかわからない。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.mk_find_lighter&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.mk_find_lighter&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Tìm bật lửa</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>ライターを見つける</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.mk_find_lighter&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.mk_find_lighter&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Mình cần kiếm cái gì đó để nhóm lửa.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>何か火をつけられるものを見つける必要がある。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.mk_burn_items&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.mk_burn_items&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Đốt 5 Cái món đồ Đặc biệt</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>5つの特別なアイテムを燃やす</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.mk_burn_items&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.mk_burn_items&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Mình cần đốt mấy món đồ theo đúng thứ tự. Có cái chỗ nhóm lửa dùng được đấy.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>アイテムを正しい順番で燃やす必要がある。暖炉が使えるはず。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.mk_plant_drink&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.mk_plant_drink&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Mang Rượu cho Cái cây</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>植物にアルコールを持って行く</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.mk_plant_drink&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.mk_plant_drink&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Một trong mấy cái cây đấy yêu cầu rượu (hoặc nước).</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>植物のうちひとつが、アルコール(または水)を必要としてる。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.mk_plant_eat&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.mk_plant_eat&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Mang Thức ăn cho Cái cây</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>植物に食べ物を持って行く</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.mk_plant_eat&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.mk_plant_eat&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Một trong mấy cái cây đấy yêu cầu được cho ăn. Là thịt lại càng tốt.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>植物のうちひとつにエサをやらないといけない。おすすめは肉らしい。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.mk_plant_music&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.mk_plant_music&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Chơi Nhạc cho Cái cây</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>植物のために音楽をかける</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.mk_plant_music&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.mk_plant_music&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Một trong mấy cái cây đấy yêu cầu âm nhạc.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>植物のうちひとつが、音楽を必要としてる。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.mk_plant_flowers&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.mk_plant_flowers&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Mang Hoa cho Cái cây</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>植物に花を持って行く</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.mk_plant_flowers&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.mk_plant_flowers&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Một trong mấy cái cây đấy yêu cầu miện hoa.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>植物のうちひとつが、花冠を必要としてる。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.return_complete_ritual&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.return_complete_ritual&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Thực hiện nghi thức Bách hợp Giấy</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>折り紙の百合の儀式を行う</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.return_complete_ritual&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.return_complete_ritual&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Để mở cánh cửa, lá thư cần được gấp thành hoa bách hợp giấy rồi bỏ vào trong cái lọ.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>扉を開けるためには、手紙で百合を折って、瓶に挿す必要がある。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.return_go_home&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.return_go_home&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Đi qua cánh cửa.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>扉を抜ける</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.return_go_home&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.return_go_home&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Cánh cửa mở rồi. Mình về nhà được rồi.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>扉は開いている。これで家に帰れる。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.blackpass_1_leave&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.blackpass_1_leave&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Tới chỗ tủ quần áo</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>衣装戸棚にたどり着く</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.blackpass_1_leave&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.blackpass_1_leave&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Chỉ khi tới được cái tủ quần áo lớn ở chỗ tận cùng thì mới có thể thức dậy khỏi mấy cái giấc mơ này.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>この夢から覚めるには、最後にある大きな衣装戸棚にたどり着くしかない。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.blackpass_2_leave&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.blackpass_2_leave&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Tới chỗ tủ quần áo</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>衣装戸棚にたどり着く</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.blackpass_2_leave&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.blackpass_2_leave&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Chỉ khi tới được cái tủ quần áo lớn ở chỗ tận cùng thì mới có thể thức dậy khỏi mấy cái giấc mơ này.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>この夢から覚めるには、最後にある大きな衣装戸棚にたどり着くしかない。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.blackpass_3_leave&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.blackpass_3_leave&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Tới chỗ tủ quần áo</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>衣装戸棚にたどり着く</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.blackpass_3_leave&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.blackpass_3_leave&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Chỉ khi tới được cái tủ quần áo lớn ở chỗ tận cùng thì mới có thể thức dậy khỏi mấy cái giấc mơ này.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>この夢から覚めるには、最後にある大きな衣装戸棚にたどり着くしかない。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.blackpass_4_leave&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.blackpass_4_leave&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Tới chỗ tủ quần áo</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>衣装戸棚にたどり着く</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.blackpass_4_leave&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.blackpass_4_leave&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Chỉ khi tới được cái tủ quần áo lớn ở chỗ tận cùng thì mới có thể thức dậy khỏi mấy cái giấc mơ này.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>この夢から覚めるには、最後にある大きな衣装戸棚にたどり着くしかない。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.blackpass_mom_quest&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.name.ch1.blackpass_mom_quest&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Kiếm cái _____ cho mẹ</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>ママのために_____を見つける</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.blackpass_mom_quest&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;objectives.desc.ch1.blackpass_mom_quest&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Nó ở trong cái tủ đồ trong ga-ra.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>ガレージの戸棚にある。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:number-columns-repeated="2" />
+        </table:table-row>
+        <table:table-row table:number-rows-repeated="1048388">
+          <table:table-cell table:number-columns-repeated="4" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="4" />
+        </table:table-row>
+        <calcext:conditional-formats>
+          <calcext:conditional-format calcext:target-range-address="Translation.C1:Translation.C1048576">
+            <calcext:condition calcext:apply-style-name="Bad" calcext:value="formula-is(AND(LEN(TRIM([.B1]))&gt;0; LEN(TRIM([.C1]))=0))" calcext:base-cell-address="Translation.C1" />
+          </calcext:conditional-format>
+        </calcext:conditional-formats>
+      </table:table>
+      <table:table table:name="Base">
+        <table:table-column table:style-name="Base-co1" table:default-cell-style-name="Base-ce1" />
+        <table:table-column table:style-name="Base-co2" table:default-cell-style-name="Base-ce2" />
+        <table:table-row>
+          <table:table-cell>
+            <text:p>key</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>en</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.ch1.go_to_room</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Go to your room</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.ch1.go_to_room</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>This day needs to end. I want to lie in bed.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.ch1.ritual_items</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Find the ritual items</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.ch1.ritual_items</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>I should gather the items that I'll need for the ritual. Shouldn't be too hard.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.paint.ch1.ritual_items</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Something red to draw</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.paint.ch1.ritual_items</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>I need to find something red to paint or mark the front of the house with.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.ribbon.ch1.ritual_items</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Something red to tie</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.ribbon.ch1.ritual_items</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>I need to find something red to tie onto the phone cord.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.ch1.prepare_ritual</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Prepare the ritual</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.ch1.prepare_ritual</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>I need to prepare the ritual before night time.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.paint_front.ch1.prepare_ritual</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Paint symbol</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.paint_front.ch1.prepare_ritual</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>I need to paint a symbol on the front door of the house. I hope no one will see me...</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.tie_ribbon.ch1.prepare_ritual</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Tie string on phone cord</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.tie_ribbon.ch1.prepare_ritual</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>I need to tie a red ribbon on the cord of my landline phone in the kitchen.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.set_alarm_clock.ch1.prepare_ritual</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Set alarm clock</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.set_alarm_clock.ch1.prepare_ritual</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>I need to set an alarm for midnight.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.ch1.revert_ritual_instructions</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Get the ritual reversal instructions</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.ch1.revert_ritual_instructions</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>I messed up the ritual. I need to undo it by following the steps I left at my PC.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.ch1.revert_ritual_execution</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Undo the ritual</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.ch1.revert_ritual_execution</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>I need to undo the ritual for my own safety.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.remove_ribbon.ch1.revert_ritual_execution</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Untie red string</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.remove_ribbon.ch1.revert_ritual_execution</text:p>
+          </table:table-cell>
+          <table:table-cell />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.salt_front.ch1.revert_ritual_execution</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Add salt to front door</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.salt_front.ch1.revert_ritual_execution</text:p>
+          </table:table-cell>
+          <table:table-cell />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.salt_back.ch1.revert_ritual_execution</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Add salt to back door</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.salt_back.ch1.revert_ritual_execution</text:p>
+          </table:table-cell>
+          <table:table-cell />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.salt_garage.ch1.revert_ritual_execution</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Add salt to garage door</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.salt_garage.ch1.revert_ritual_execution</text:p>
+          </table:table-cell>
+          <table:table-cell />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.ch1.revert_ritual_sleep</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Go to sleep</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.ch1.revert_ritual_sleep</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>The ritual reversal is complete. There's nothing left to do other than to get in bed.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.ch1.talk_to_brother</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Talk to Hiro</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.ch1.talk_to_brother</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>I need to tell Hiro to leave the house...</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.ch1.go_to_sleep</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Get in bed</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.ch1.go_to_sleep</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Apparently, I need to lie in bed until the alarm goes off.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.ch1.dial_number</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Call the Bus</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.ch1.dial_number</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>I need to call the bus. The phone number I should dial is 999281#0.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.ch1.take_bus</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Take the Bus</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.ch1.take_bus</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Get on the bus. Hurry!</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.ch1.explore_parkinglot</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Look Around</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.ch1.explore_parkinglot</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>I arrived somewhere. What do I do now?</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.ch1.explore_forest</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Explore the Forest</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.ch1.explore_forest</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>I arrived at my destination. Can I find someone to help me?</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.ch1.rotate_signs</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Rotate the Signs</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.ch1.rotate_signs</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>I think I can open up a path towards the Daylight Gate if I rotate the blue signs towards the correct direction.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.ch1.open_daylight_gate</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Open the Daylight Gate</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.ch1.open_daylight_gate</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>There's a gate impeding my progress. I need to find a way to open it.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.ch1.forest_station_sign</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Restore the Sign</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.ch1.forest_station_sign</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>A sign is missing from the front of the station. If I find it, I should put it back in place.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.ch1.forest_station_sign_2</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Restore the Sign</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.ch1.forest_station_sign_2</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>I found a blue sign. I should put it back in its spot in front of the station.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.ch1.forest_station_paths</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Pick the Right Path</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.ch1.forest_station_paths</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>There are three paths in front of me, and a ticket as a hint for which one to pick..</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.ch1.locked_site_enter</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Enter the Locked Site</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.ch1.locked_site_enter</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Seems like the only way north might be through the Locked Site.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.ch1.locked_site_light</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Find a Light</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.ch1.locked_site_light</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Apparently, I'll' need a light to walk into the Locked Site.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.ch1.locked_site_keys</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Find 3 Keys</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.ch1.locked_site_keys</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>I found clues to the location of the three keys for the padlocks:</text:p>
+            <text:p>-Behind a tree</text:p>
+            <text:p>-In a cactus pot</text:p>
+            <text:p>-Under a fake rug</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.key_1.ch1.locked_site_keys</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Key 1</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.key_1.ch1.locked_site_keys</text:p>
+          </table:table-cell>
+          <table:table-cell />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.key_2.ch1.locked_site_keys</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Key 2</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.key_2.ch1.locked_site_keys</text:p>
+          </table:table-cell>
+          <table:table-cell />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.key_3.ch1.locked_site_keys</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Key 3</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.key_3.ch1.locked_site_keys</text:p>
+          </table:table-cell>
+          <table:table-cell />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.ch1.fairyring_escape</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Find an Exit</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.ch1.fairyring_escape</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>You're trapped inside the fairy ring. Find a way out!</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.ch1.kozmo_find_head</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Find a Head</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.ch1.kozmo_find_head</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Find a new head for Kozmo. Hurry, he seems in danger!</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.ch1.kozmo_give_head</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Give the new head to Kozmo</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.ch1.kozmo_give_head</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Kozmo needs his new head. Hurry!</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.ch1.forest_find_lighthouse</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Find the Lighthouse</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.ch1.forest_find_lighthouse</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>By continuing north through the forest, I should be able to find the lighthouse at some point.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.ch1.forest_lakeside_paddles</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Find Paddles</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.ch1.forest_lakeside_paddles</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>There's a boat I can take to continue north, but I need paddles.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.ch1.forest_lakeside_remove_mermaid</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Get Rid of the Monster</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.ch1.forest_lakeside_remove_mermaid</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>There's a boat I can take to continue north, but a monster is guarding it.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.ch1.forest_lakeside_take_boat</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Take the Boat</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.ch1.forest_lakeside_take_boat</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Taking the boat might be the only way to continue north.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.ch1.forest_lakeside_caterpillar</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Get Rid of the Caterpillar</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.ch1.forest_lakeside_caterpillar</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>The moths will reward me with a doorknob if I get rid of it...</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.ch1.forest_lakeside_moths_reward</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Get Your Reward</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.ch1.forest_lakeside_moths_reward</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>The moths should reward me with a doorknob now.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.ch1.forest_lakeside_doorknob</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Use the Doorknob</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.ch1.forest_lakeside_doorknob</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>I got a doorknob from the moths. It seems to be the only way forward.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.ch1.facility_escape_cell</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Escape your prison</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.ch1.facility_escape_cell</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>I woke up in a strange prison cell. I need to get out of here.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.ch1.facility_investigate</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Investigate the facility</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.ch1.facility_investigate</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Explore this place.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.ch1.facility_go_deeper</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Find a way to go deeper down</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.ch1.facility_go_deeper</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>The only way out of the facility is by going deeper down, according to Rune.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.ch1.facility_remove_flood</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Lower the water level</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.ch1.facility_remove_flood</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>In order to go deeper, the water level may need to be lowered somehow.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.ch1.facility_fix_elevator</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Fix the elevator</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.ch1.facility_fix_elevator</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>In order to go deeper, the elevator could perhaps be fixed.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.ch1.facility_find_door</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Find the cursed door</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.ch1.facility_find_door</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Rune said there should be a cursed door that leads outside, somewhere deep in this facility.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.ch1.mk_find_exit</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Find an exit</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.ch1.mk_find_exit</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Find a way to leave this strange house.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.ch1.mk_find_own_items</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Find your items</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.ch1.mk_find_own_items</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Find out what happened to your items and retrieve them.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.ch1.mk_rescue_sai</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Help Sai escape</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.ch1.mk_rescue_sai</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Find a way to unlock the cage Sai is in.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.ch1.mk_find_items</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Find and Unseal 5 Special Items</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.ch1.mk_find_items</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Miss Knives keeps 5 important items in her house. I need to find and unseal each of them.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.ch1.mk_ask_spider</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Ask Spider What To Do Next</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.ch1.mk_ask_spider</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>I have the 5 items, but I don't know what to do with them.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.ch1.mk_find_lighter</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Find a Lighter</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.ch1.mk_find_lighter</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>I need to find something to start a fire with.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.ch1.mk_burn_items</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Burn the 5 Special Items</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.ch1.mk_burn_items</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>I need to burn the items in the correct order. There's a fireplace I could use.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.ch1.mk_plant_drink</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Bring Alcohol to the Plant</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.ch1.mk_plant_drink</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>One of the plants requires alcohol (or water).</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.ch1.mk_plant_eat</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Bring Food to the Plant</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.ch1.mk_plant_eat</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>One of the plants requires to be fed. Meat is recommended.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.ch1.mk_plant_music</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Play Music for the Plant</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.ch1.mk_plant_music</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>One of the plants requires music.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.ch1.mk_plant_flowers</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Bring Flowers to the Plant</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.ch1.mk_plant_flowers</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>One of the plants requires a flower crown.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.ch1.return_complete_ritual</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Perform the Paper Lily ritual</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.ch1.return_complete_ritual</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>In order to open the door, the letter needs to be folded into a paper lily and placed in the jar.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.ch1.return_go_home</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Go through the door</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.ch1.return_go_home</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>The door is open. I can go home.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.ch1.blackpass_1_leave</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Get to the Wardrobe</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.ch1.blackpass_1_leave</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>I can only wake up from these dreams when I reach the large wardrobe at the end.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.ch1.blackpass_2_leave</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Get to the Wardrobe</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.ch1.blackpass_2_leave</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>I can only wake up from these dreams when I reach the large wardrobe at the end.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.ch1.blackpass_3_leave</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Get to the Wardrobe</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.ch1.blackpass_3_leave</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>I can only wake up from these dreams when I reach the large wardrobe at the end.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.ch1.blackpass_4_leave</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Get to the Wardrobe</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.ch1.blackpass_4_leave</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>I can only wake up from these dreams when I reach the large wardrobe at the end.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.name.ch1.blackpass_mom_quest</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Find a _____ for mom</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>objectives.desc.ch1.blackpass_mom_quest</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>It's in a closet in the garage.</text:p>
+          </table:table-cell>
+        </table:table-row>
+      </table:table>
+      <table:named-expressions />
+    </office:spreadsheet>
+  </office:body>
+</office:document>

@@ -1,0 +1,12 @@
+godot.exe
+godotpcktool.exe
+package/.import
+package/definitions/locale/vi
+package/translation-resources/vi/*.ttf
+package/translation-resources/vi/*.otf
+translation_vi.pck
+vcpkg-init.cmd
+vcpkg.exe
+debug.log
+*.docx
+LacieEngineLog/*

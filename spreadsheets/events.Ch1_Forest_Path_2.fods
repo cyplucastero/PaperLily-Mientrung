@@ -1,0 +1,2058 @@
+<?xml version="1.0" encoding="utf-8"?>
+<office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
+  <office:automatic-styles>
+    <style:style style:name="Translation-co1" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="2.258cm" />
+    </style:style>
+    <style:style style:name="Translation-ce1" style:family="table-cell">
+      <style:table-cell-properties fo:wrap-option="no-wrap" style:vertical-align="top" />
+    </style:style>
+    <style:style style:name="Translation-co2" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="4.974cm" />
+    </style:style>
+    <style:style style:name="Translation-ce2" style:family="table-cell">
+      <style:table-cell-properties fo:wrap-option="no-wrap" style:vertical-align="top" />
+    </style:style>
+    <style:style style:name="Translation-co3" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="8.043cm" />
+    </style:style>
+    <style:style style:name="Translation-ce3" style:family="table-cell">
+      <style:table-cell-properties fo:wrap-option="wrap" style:vertical-align="top" />
+    </style:style>
+    <style:style style:name="Translation-co4" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="7.811cm" />
+    </style:style>
+    <style:style style:name="Translation-ce4" style:family="table-cell">
+      <style:table-cell-properties fo:wrap-option="wrap" style:vertical-align="top" />
+      <style:map style:condition="is-true-formula(AND(LEN(TRIM([.C1]))&gt;0; LEN(TRIM([.D1]))=0))" style:apply-style-name="Bad" style:base-cell-address="Translation.D1" />
+    </style:style>
+    <style:style style:name="Translation-co5" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="7.811cm" />
+    </style:style>
+    <style:style style:name="Translation-ce5" style:family="table-cell">
+      <style:table-cell-properties fo:wrap-option="wrap" style:vertical-align="top" />
+    </style:style>
+    <style:style style:name="Base-co1" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="2.258cm" />
+    </style:style>
+    <style:style style:name="Base-ce1" style:family="table-cell" />
+    <style:style style:name="Base-co2" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="2.258cm" />
+    </style:style>
+    <style:style style:name="Base-ce2" style:family="table-cell" />
+    <style:style style:name="Base-co3" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="2.258cm" />
+    </style:style>
+    <style:style style:name="Base-ce3" style:family="table-cell" />
+    <style:style style:name="Base-co4" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="2.258cm" />
+    </style:style>
+    <style:style style:name="Base-ce4" style:family="table-cell" />
+    <style:style style:name="Base-co5" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="2.258cm" />
+    </style:style>
+    <style:style style:name="Base-ce5" style:family="table-cell" />
+    <style:style style:name="Config-co1" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="2.258cm" />
+    </style:style>
+    <style:style style:name="Config-ce1" style:family="table-cell" />
+    <style:style style:name="Config-co2" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="2.258cm" />
+    </style:style>
+    <style:style style:name="Config-ce2" style:family="table-cell" />
+    <style:style style:name="Config-co3" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="2.258cm" />
+    </style:style>
+    <style:style style:name="Config-ce3" style:family="table-cell" />
+    <style:style style:name="Config-co4" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="2.258cm" />
+    </style:style>
+    <style:style style:name="Config-ce4" style:family="table-cell" />
+  </office:automatic-styles>
+  <office:body>
+    <office:spreadsheet>
+      <table:table table:name="Translation">
+        <table:table-column table:style-name="Translation-co1" table:default-cell-style-name="Translation-ce1" />
+        <table:table-column table:style-name="Translation-co2" table:default-cell-style-name="Translation-ce2" />
+        <table:table-column table:style-name="Translation-co3" table:default-cell-style-name="Translation-ce3" />
+        <table:table-column table:style-name="Translation-co4" table:default-cell-style-name="Translation-ce4" />
+        <table:table-column table:style-name="Translation-co5" table:default-cell-style-name="Translation-ce5" />
+        <table:table-row>
+          <table:table-cell>
+            <text:p>context</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>extra</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>en</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>vi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>ja</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event event_eyes_spook</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event event_koo_1</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event event_koo_2</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event event_react_stairs</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;1&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;1&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;1&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Cái lối vào này... nãy đâu có.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>この入り口……さっきはなかった。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;2&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;2&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;2&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Đây là xuống đường hầm à?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>地下に続いてる？</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event event_see_stairs</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event event_sign_explanation</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;3&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;3&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;3&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Ở đây có tấm biển chỉ đường khác. Nó bị long, nên có thể xoay được.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>また別の標識がある。ゆるいので、回せる。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;4&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;4&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;4&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Được, mình nghĩ mình hiểu rồi.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>うん、わかってきたかも。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event misc_sign_blue_1</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;5&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;5&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;5&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Tấm biển này đề là [color=#8080FF]“Cổng Bạch Nhật”[/color]. Xoay nó chứ?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>[color=#8080FF]「デイライト・ゲート」[/color]と書かれた標識。回す？</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;6&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;6&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;6&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Bắc</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>北に向ける</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;7&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;7&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;7&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Nam</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>南に向ける</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;8&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;8&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;8&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Tây</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>西に向ける</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;9&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;9&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;9&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Đông</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>東に向ける</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;10&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;10&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;10&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Không xoay</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>回さない</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event misc_sign_blue_2</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;11&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;11&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;11&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Tấm biển này đề là [color=#8080FF]“Cổng Bạch Nhật”[/color]. Xoay nó chứ?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>[color=#8080FF]「デイライト・ゲート」[/color]と書かれた標識。回す？</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;12&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;12&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;12&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Bắc</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>北に向ける</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;13&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;13&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;13&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Nam</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>南に向ける</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;14&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;14&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;14&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Tây</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>西に向ける</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;15&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;15&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;15&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Đông</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>東に向ける</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;16&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;16&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;16&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Không xoay</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>回さない</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event misc_sign_blue_3</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;17&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;17&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;17&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Tấm biển này đề là [color=#8080FF]“Cổng Bạch Nhật”[/color]. Xoay nó chứ?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>[color=#8080FF]「デイライト・ゲート」[/color]と書かれた標識。回す？</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;18&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;18&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;18&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Bắc</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>北に向ける</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;19&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;19&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;19&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Nam</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>南に向ける</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;20&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;20&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;20&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Tây</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>西に向ける</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;21&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;21&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;21&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Đông</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>東に向ける</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;22&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;22&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;22&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Không xoay</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>回さない</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event misc_sign_blue_fixed</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;23&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;23&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;23&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Tấm biển này đề là [color=#8080FF]“Cổng Bạch Nhật”[/color].</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>[color=#8080FF]「デイライト・ゲート」[/color]と書かれた標識。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;24&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;24&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;24&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Nó bị cố định tại chỗ, nên không thể xoay được.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>固定されているので、回すことはできない。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event misc_sign_red_1</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;25&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;25&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;25&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Tấm biển này đề là [color=#FF8080]“Bí mật”[/color]. Xoay nó chứ?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>[color=#FF8080]「秘密」[/color]と書かれた標識。回す？</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;26&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;26&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;26&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Bắc</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>北に向ける</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;27&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;27&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;27&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Nam</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>南に向ける</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;28&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;28&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;28&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Tây</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>西に向ける</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;29&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;29&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;29&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Đông</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>東に向ける</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;30&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;30&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;30&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Không xoay</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>回さない</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event misc_sign_red_2</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;31&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;31&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;31&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Tấm biển này đề là [color=#FF8080]“Bí mật”[/color]. Xoay nó chứ?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>[color=#FF8080]「秘密」[/color]と書かれた標識。回す？</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;32&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;32&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;32&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Bắc</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>北に向ける</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;33&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;33&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;33&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Nam</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>南に向ける</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;34&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;34&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;34&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Tây</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>西に向ける</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;35&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;35&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;35&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Đông</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>東に向ける</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;36&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;36&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;36&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Không xoay</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>回さない</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event misc_sign_yellow_1</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;37&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;37&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;37&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Tấm biển này đề là [color=#FFFF80]“Điểm vào Trạm Tàu”[/color]. Xoay nó chứ?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>[color=#FFFF80]「駅方面」[/color]と書かれた標識。回す？</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;38&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;38&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;38&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Bắc</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>北に向ける</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;39&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;39&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;39&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Nam</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>南に向ける</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;40&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;40&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;40&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Tây</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>西に向ける</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;41&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;41&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;41&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Đông</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>東に向ける</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;42&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;42&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;42&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Không xoay</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>回さない</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event misc_sign_yellow_2</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;43&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;43&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;43&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Tấm biển này đề là [color=#FFFF80]“Điểm vào Trạm Tàu”[/color]. Xoay nó chứ?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>[color=#FFFF80]「駅方面」[/color]と書かれた標識。回す？</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;44&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;44&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;44&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Bắc</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>北に向ける</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;45&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;45&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;45&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Nam</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>南に向ける</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;46&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;46&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;46&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Tây</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>西に向ける</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;47&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;47&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;47&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Đông</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>東に向ける</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;48&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;48&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;48&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Không xoay</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>回さない</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event misc_sign_yellow_3</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;49&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;49&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;49&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Tấm biển này đề là [color=#FFFF80]“Điểm vào Trạm Tàu”[/color]. Xoay nó chứ?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>[color=#FFFF80]「駅方面」[/color]と書かれた標識。回す？</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;50&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;50&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;50&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Bắc</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>北に向ける</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;51&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;51&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;51&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Nam</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>南に向ける</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;52&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;52&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;52&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Tây</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>西に向ける</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;53&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;53&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;53&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Đông</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>東に向ける</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;54&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;54&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;54&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Không xoay</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>回さない</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event move_back</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event move_next</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event move_secret_1</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;55&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;55&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;55&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Cái lối đi tối tăm xuyên qua rừng cây. Vào chứ?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>木々の合間の暗い小道。入る？</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;56&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;56&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;56&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Vào</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>入る</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;57&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;57&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;57&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Thôi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>入らない</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event move_secret_2</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;58&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;58&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;58&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Cái lối đi tối tăm xuyên qua rừng cây. Vào chứ?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>木々の合間の暗い小道。入る？</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;59&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;59&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;59&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Vào</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>入る</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;60&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;60&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;60&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Thôi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>入らない</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event move_station</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row table:number-rows-repeated="1048464">
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <calcext:conditional-formats>
+          <calcext:conditional-format calcext:target-range-address="Translation.D1:Translation.D1048576">
+            <calcext:condition calcext:apply-style-name="Bad" calcext:value="formula-is(AND(LEN(TRIM([.C1]))&gt;0; LEN(TRIM([.D1]))=0))" calcext:base-cell-address="Translation.D1" />
+          </calcext:conditional-format>
+        </calcext:conditional-formats>
+      </table:table>
+      <table:table table:name="Base">
+        <table:table-column table:style-name="Base-co1" table:default-cell-style-name="Base-ce1" />
+        <table:table-column table:style-name="Base-co2" table:default-cell-style-name="Base-ce2" />
+        <table:table-column table:style-name="Base-co3" table:default-cell-style-name="Base-ce3" />
+        <table:table-column table:style-name="Base-co4" table:default-cell-style-name="Base-ce4" />
+        <table:table-column table:style-name="Base-co5" table:default-cell-style-name="Base-ce5" />
+        <table:table-row>
+          <table:table-cell>
+            <text:p>ordinal</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>key</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>context</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>extra</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>en</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>1</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Path_2.event_react_stairs.text.8a57f19d94d35ba8f3fcf2a9ffe537e8e3d51392</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Path_2.event_react_stairs.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie blank6</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>That entrance... wasn't there before.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>2</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Path_2.event_react_stairs.text.d87951d94c25c4862ebac73e29076e6516577e36</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Path_2.event_react_stairs.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie blank5</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Is it underground?</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>3</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Path_2.event_sign_explanation.text.2be05e22e618832b645c9d7671487966e328c4ba</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Path_2.event_sign_explanation.dlg.narrator</text:p>
+          </table:table-cell>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>There's another signpost here. It's loose, so it can be rotated.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>4</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Path_2.event_sign_explanation.text.72179859771d55a8b7c7e63c6b4b5c1aed81b359</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Path_2.event_sign_explanation.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie thinking</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Alright, I think I understand.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>5</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Path_2.misc_sign_blue_1.choice.text.5f2e0e86239ebb9d357a50bda062da1ec7e20462</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Path_2.misc_sign_blue_1.choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>topic/question</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>This sign says [color=#8080FF]"Daylight Gate"[/color]. Rotate it?</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>6</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Path_2.misc_sign_blue_1.choice.f8e45b2be26ba7f2c5ace69ca33f85a1761bed9c</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Path_2.misc_sign_blue_1.choice.This sign says [color=#8080FF]"Daylight Gate"[/color]. Rotate it?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>North</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>7</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Path_2.misc_sign_blue_1.choice.6ace4497326a0393975da555f7722ccb9ebfa556</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Path_2.misc_sign_blue_1.choice.This sign says [color=#8080FF]"Daylight Gate"[/color]. Rotate it?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>South</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>8</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Path_2.misc_sign_blue_1.choice.dd322f2dc7c008b758c4c05f6386406b30584bac</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Path_2.misc_sign_blue_1.choice.This sign says [color=#8080FF]"Daylight Gate"[/color]. Rotate it?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>West</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>9</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Path_2.misc_sign_blue_1.choice.9bb58b2d1b36b6e35c78457f7b4788ea14ab01f9</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Path_2.misc_sign_blue_1.choice.This sign says [color=#8080FF]"Daylight Gate"[/color]. Rotate it?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>East</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>10</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Path_2.misc_sign_blue_1.choice.0c3534a602e9e59558894fe087cfdf1f5d9f08cc</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Path_2.misc_sign_blue_1.choice.This sign says [color=#8080FF]"Daylight Gate"[/color]. Rotate it?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Don't Rotate</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>11</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Path_2.misc_sign_blue_2.choice.text.5f2e0e86239ebb9d357a50bda062da1ec7e20462</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Path_2.misc_sign_blue_2.choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>topic/question</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>This sign says [color=#8080FF]"Daylight Gate"[/color]. Rotate it?</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>12</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Path_2.misc_sign_blue_2.choice.f8e45b2be26ba7f2c5ace69ca33f85a1761bed9c</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Path_2.misc_sign_blue_2.choice.This sign says [color=#8080FF]"Daylight Gate"[/color]. Rotate it?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>North</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>13</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Path_2.misc_sign_blue_2.choice.6ace4497326a0393975da555f7722ccb9ebfa556</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Path_2.misc_sign_blue_2.choice.This sign says [color=#8080FF]"Daylight Gate"[/color]. Rotate it?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>South</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>14</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Path_2.misc_sign_blue_2.choice.dd322f2dc7c008b758c4c05f6386406b30584bac</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Path_2.misc_sign_blue_2.choice.This sign says [color=#8080FF]"Daylight Gate"[/color]. Rotate it?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>West</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>15</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Path_2.misc_sign_blue_2.choice.9bb58b2d1b36b6e35c78457f7b4788ea14ab01f9</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Path_2.misc_sign_blue_2.choice.This sign says [color=#8080FF]"Daylight Gate"[/color]. Rotate it?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>East</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>16</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Path_2.misc_sign_blue_2.choice.0c3534a602e9e59558894fe087cfdf1f5d9f08cc</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Path_2.misc_sign_blue_2.choice.This sign says [color=#8080FF]"Daylight Gate"[/color]. Rotate it?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Don't Rotate</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>17</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Path_2.misc_sign_blue_3.choice.text.5f2e0e86239ebb9d357a50bda062da1ec7e20462</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Path_2.misc_sign_blue_3.choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>topic/question</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>This sign says [color=#8080FF]"Daylight Gate"[/color]. Rotate it?</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>18</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Path_2.misc_sign_blue_3.choice.f8e45b2be26ba7f2c5ace69ca33f85a1761bed9c</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Path_2.misc_sign_blue_3.choice.This sign says [color=#8080FF]"Daylight Gate"[/color]. Rotate it?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>North</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>19</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Path_2.misc_sign_blue_3.choice.6ace4497326a0393975da555f7722ccb9ebfa556</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Path_2.misc_sign_blue_3.choice.This sign says [color=#8080FF]"Daylight Gate"[/color]. Rotate it?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>South</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>20</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Path_2.misc_sign_blue_3.choice.dd322f2dc7c008b758c4c05f6386406b30584bac</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Path_2.misc_sign_blue_3.choice.This sign says [color=#8080FF]"Daylight Gate"[/color]. Rotate it?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>West</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>21</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Path_2.misc_sign_blue_3.choice.9bb58b2d1b36b6e35c78457f7b4788ea14ab01f9</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Path_2.misc_sign_blue_3.choice.This sign says [color=#8080FF]"Daylight Gate"[/color]. Rotate it?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>East</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>22</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Path_2.misc_sign_blue_3.choice.0c3534a602e9e59558894fe087cfdf1f5d9f08cc</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Path_2.misc_sign_blue_3.choice.This sign says [color=#8080FF]"Daylight Gate"[/color]. Rotate it?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Don't Rotate</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>23</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Path_2.misc_sign_blue_fixed.text.2e129ab9dd972b8963b42f2fdd7814d9d78e4816</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Path_2.misc_sign_blue_fixed.dlg.narrator</text:p>
+          </table:table-cell>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>This sign says [color=#8080FF]"Daylight Gate"[/color].</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>24</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Path_2.misc_sign_blue_fixed.text.77cdd74c3929ecbbdbb6ab858b4a604b57c2f75a</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Path_2.misc_sign_blue_fixed.dlg.narrator</text:p>
+          </table:table-cell>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>It's fixed in place, so it cannot be rotated.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>25</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Path_2.misc_sign_red_1.choice.text.434fb3146cb0342f47229a15c6a1db3345b28333</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Path_2.misc_sign_red_1.choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>topic/question</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>This sign says [color=#FF8080]"Secret"[/color]. Rotate it?</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>26</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Path_2.misc_sign_red_1.choice.f8e45b2be26ba7f2c5ace69ca33f85a1761bed9c</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Path_2.misc_sign_red_1.choice.This sign says [color=#FF8080]"Secret"[/color]. Rotate it?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>North</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>27</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Path_2.misc_sign_red_1.choice.6ace4497326a0393975da555f7722ccb9ebfa556</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Path_2.misc_sign_red_1.choice.This sign says [color=#FF8080]"Secret"[/color]. Rotate it?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>South</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>28</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Path_2.misc_sign_red_1.choice.dd322f2dc7c008b758c4c05f6386406b30584bac</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Path_2.misc_sign_red_1.choice.This sign says [color=#FF8080]"Secret"[/color]. Rotate it?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>West</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>29</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Path_2.misc_sign_red_1.choice.9bb58b2d1b36b6e35c78457f7b4788ea14ab01f9</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Path_2.misc_sign_red_1.choice.This sign says [color=#FF8080]"Secret"[/color]. Rotate it?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>East</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>30</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Path_2.misc_sign_red_1.choice.0c3534a602e9e59558894fe087cfdf1f5d9f08cc</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Path_2.misc_sign_red_1.choice.This sign says [color=#FF8080]"Secret"[/color]. Rotate it?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Don't Rotate</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>31</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Path_2.misc_sign_red_2.choice.text.434fb3146cb0342f47229a15c6a1db3345b28333</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Path_2.misc_sign_red_2.choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>topic/question</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>This sign says [color=#FF8080]"Secret"[/color]. Rotate it?</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>32</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Path_2.misc_sign_red_2.choice.f8e45b2be26ba7f2c5ace69ca33f85a1761bed9c</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Path_2.misc_sign_red_2.choice.This sign says [color=#FF8080]"Secret"[/color]. Rotate it?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>North</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>33</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Path_2.misc_sign_red_2.choice.6ace4497326a0393975da555f7722ccb9ebfa556</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Path_2.misc_sign_red_2.choice.This sign says [color=#FF8080]"Secret"[/color]. Rotate it?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>South</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>34</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Path_2.misc_sign_red_2.choice.dd322f2dc7c008b758c4c05f6386406b30584bac</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Path_2.misc_sign_red_2.choice.This sign says [color=#FF8080]"Secret"[/color]. Rotate it?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>West</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>35</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Path_2.misc_sign_red_2.choice.9bb58b2d1b36b6e35c78457f7b4788ea14ab01f9</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Path_2.misc_sign_red_2.choice.This sign says [color=#FF8080]"Secret"[/color]. Rotate it?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>East</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>36</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Path_2.misc_sign_red_2.choice.0c3534a602e9e59558894fe087cfdf1f5d9f08cc</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Path_2.misc_sign_red_2.choice.This sign says [color=#FF8080]"Secret"[/color]. Rotate it?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Don't Rotate</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>37</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Path_2.misc_sign_yellow_1.choice.text.f8e9674586a66fea54fdc9bf1c9e5edaba2ccbbe</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Path_2.misc_sign_yellow_1.choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>topic/question</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>This sign says [color=#FFFF80]"Train Station Access"[/color]. Rotate it?</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>38</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Path_2.misc_sign_yellow_1.choice.f8e45b2be26ba7f2c5ace69ca33f85a1761bed9c</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Path_2.misc_sign_yellow_1.choice.This sign says [color=#FFFF80]"Train Station Access"[/color]. Rotate it?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>North</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>39</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Path_2.misc_sign_yellow_1.choice.6ace4497326a0393975da555f7722ccb9ebfa556</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Path_2.misc_sign_yellow_1.choice.This sign says [color=#FFFF80]"Train Station Access"[/color]. Rotate it?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>South</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>40</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Path_2.misc_sign_yellow_1.choice.dd322f2dc7c008b758c4c05f6386406b30584bac</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Path_2.misc_sign_yellow_1.choice.This sign says [color=#FFFF80]"Train Station Access"[/color]. Rotate it?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>West</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>41</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Path_2.misc_sign_yellow_1.choice.9bb58b2d1b36b6e35c78457f7b4788ea14ab01f9</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Path_2.misc_sign_yellow_1.choice.This sign says [color=#FFFF80]"Train Station Access"[/color]. Rotate it?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>East</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>42</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Path_2.misc_sign_yellow_1.choice.0c3534a602e9e59558894fe087cfdf1f5d9f08cc</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Path_2.misc_sign_yellow_1.choice.This sign says [color=#FFFF80]"Train Station Access"[/color]. Rotate it?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Don't Rotate</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>43</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Path_2.misc_sign_yellow_2.choice.text.f8e9674586a66fea54fdc9bf1c9e5edaba2ccbbe</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Path_2.misc_sign_yellow_2.choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>topic/question</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>This sign says [color=#FFFF80]"Train Station Access"[/color]. Rotate it?</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>44</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Path_2.misc_sign_yellow_2.choice.f8e45b2be26ba7f2c5ace69ca33f85a1761bed9c</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Path_2.misc_sign_yellow_2.choice.This sign says [color=#FFFF80]"Train Station Access"[/color]. Rotate it?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>North</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>45</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Path_2.misc_sign_yellow_2.choice.6ace4497326a0393975da555f7722ccb9ebfa556</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Path_2.misc_sign_yellow_2.choice.This sign says [color=#FFFF80]"Train Station Access"[/color]. Rotate it?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>South</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>46</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Path_2.misc_sign_yellow_2.choice.dd322f2dc7c008b758c4c05f6386406b30584bac</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Path_2.misc_sign_yellow_2.choice.This sign says [color=#FFFF80]"Train Station Access"[/color]. Rotate it?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>West</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>47</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Path_2.misc_sign_yellow_2.choice.9bb58b2d1b36b6e35c78457f7b4788ea14ab01f9</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Path_2.misc_sign_yellow_2.choice.This sign says [color=#FFFF80]"Train Station Access"[/color]. Rotate it?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>East</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>48</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Path_2.misc_sign_yellow_2.choice.0c3534a602e9e59558894fe087cfdf1f5d9f08cc</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Path_2.misc_sign_yellow_2.choice.This sign says [color=#FFFF80]"Train Station Access"[/color]. Rotate it?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Don't Rotate</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>49</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Path_2.misc_sign_yellow_3.choice.text.f8e9674586a66fea54fdc9bf1c9e5edaba2ccbbe</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Path_2.misc_sign_yellow_3.choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>topic/question</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>This sign says [color=#FFFF80]"Train Station Access"[/color]. Rotate it?</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>50</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Path_2.misc_sign_yellow_3.choice.f8e45b2be26ba7f2c5ace69ca33f85a1761bed9c</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Path_2.misc_sign_yellow_3.choice.This sign says [color=#FFFF80]"Train Station Access"[/color]. Rotate it?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>North</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>51</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Path_2.misc_sign_yellow_3.choice.6ace4497326a0393975da555f7722ccb9ebfa556</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Path_2.misc_sign_yellow_3.choice.This sign says [color=#FFFF80]"Train Station Access"[/color]. Rotate it?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>South</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>52</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Path_2.misc_sign_yellow_3.choice.dd322f2dc7c008b758c4c05f6386406b30584bac</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Path_2.misc_sign_yellow_3.choice.This sign says [color=#FFFF80]"Train Station Access"[/color]. Rotate it?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>West</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>53</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Path_2.misc_sign_yellow_3.choice.9bb58b2d1b36b6e35c78457f7b4788ea14ab01f9</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Path_2.misc_sign_yellow_3.choice.This sign says [color=#FFFF80]"Train Station Access"[/color]. Rotate it?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>East</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>54</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Path_2.misc_sign_yellow_3.choice.0c3534a602e9e59558894fe087cfdf1f5d9f08cc</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Path_2.misc_sign_yellow_3.choice.This sign says [color=#FFFF80]"Train Station Access"[/color]. Rotate it?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Don't Rotate</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>55</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Path_2.move_secret_1.choice.text.a04b8871bb7d111e7d974381635e1561dad25b8c</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Path_2.move_secret_1.choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>topic/question</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>A dark pathway through the trees. Enter?</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>56</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Path_2.move_secret_1.choice.5397e0583f14f6c88de06b1ef28f460a1fb5b0ae</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Path_2.move_secret_1.choice.A dark pathway through the trees. Enter?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Yes</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>57</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Path_2.move_secret_1.choice.816c52fd2bdd94a63cd0944823a6c0aa9384c103</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Path_2.move_secret_1.choice.A dark pathway through the trees. Enter?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>No</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>58</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Path_2.move_secret_2.choice.text.a04b8871bb7d111e7d974381635e1561dad25b8c</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Path_2.move_secret_2.choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>topic/question</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>A dark pathway through the trees. Enter?</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>59</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Path_2.move_secret_2.choice.5397e0583f14f6c88de06b1ef28f460a1fb5b0ae</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Path_2.move_secret_2.choice.A dark pathway through the trees. Enter?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Yes</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>60</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_Forest_Path_2.move_secret_2.choice.816c52fd2bdd94a63cd0944823a6c0aa9384c103</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_Forest_Path_2.move_secret_2.choice.A dark pathway through the trees. Enter?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>No</text:p>
+          </table:table-cell>
+        </table:table-row>
+      </table:table>
+      <table:table table:name="Config">
+        <table:table-column table:style-name="Config-co1" table:default-cell-style-name="Config-ce1" />
+        <table:table-column table:style-name="Config-co2" table:default-cell-style-name="Config-ce2" />
+        <table:table-column table:style-name="Config-co3" table:default-cell-style-name="Config-ce3" />
+        <table:table-column table:style-name="Config-co4" table:default-cell-style-name="Config-ce4" />
+        <table:table-row>
+          <table:table-cell>
+            <text:p>UseContextKey</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>0</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>KeyIndex</text:p>
+          </table:table-cell>
+          <table:table-cell table:formula="of:=IF(VLOOKUP(&quot;UseContextKey&quot;;[.$A:.$B];2;0) = 0; 2; 3)"></table:table-cell>
+        </table:table-row>
+      </table:table>
+      <table:named-expressions />
+    </office:spreadsheet>
+  </office:body>
+</office:document>

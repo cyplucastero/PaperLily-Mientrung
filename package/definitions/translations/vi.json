@@ -1,0 +1,20 @@
+{
+    "Locale": "vi",
+    "Name": "Tiếng Việt (Trung Bộ) - by Cyprus Lucastero",
+    "Credit": "Translated by Cyprus Lucastero",
+    "Website": "",
+    "Path": "vi",
+    "Disclaimer": true,
+    "UseContext": true,
+    "ResourceRemaps": {
+        "res://assets/img/cg/ch1/facility_map_1.png": "res://translation-resources/vi/facility_map_1.png",
+        "res://assets/img/cg/ch1/facility_map_2.png": "res://translation-resources/vi/facility_map_2.png",
+        "res://resources/font/ch1_cg_todolist.tres": "res://translation-resources/vi/ch1_cg_todolist.tres",
+        "res://resources/font/ch1_cg_todolist_subtitle.tres": "res://translation-resources/vi/ch1_cg_todolist_subtitle.tres"
+    },
+    "Compatibility": [
+        "Lacie Engine",
+        "Project Kat",
+        "Paper Lily Chapter 1"
+    ]
+}

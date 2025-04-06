@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="utf-8"?>
+<office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
+  <office:automatic-styles>
+    <style:style style:name="Translation-co1" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="6.608cm" />
+    </style:style>
+    <style:style style:name="Translation-ce1" style:family="table-cell">
+      <style:table-cell-properties fo:wrap-option="no-wrap" style:vertical-align="automatic" />
+    </style:style>
+    <style:style style:name="Translation-co2" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="3.247cm" />
+    </style:style>
+    <style:style style:name="Translation-ce2" style:family="table-cell">
+      <style:table-cell-properties fo:wrap-option="no-wrap" style:vertical-align="automatic" />
+    </style:style>
+    <style:style style:name="Translation-co3" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="3.247cm" />
+    </style:style>
+    <style:style style:name="Translation-ce3" style:family="table-cell">
+      <style:table-cell-properties fo:wrap-option="no-wrap" style:vertical-align="automatic" />
+      <style:map style:condition="is-true-formula(AND(LEN(TRIM([.B1]))&gt;0; LEN(TRIM([.C1]))=0))" style:apply-style-name="Bad" style:base-cell-address="Translation.C1" />
+    </style:style>
+    <style:style style:name="Translation-co4" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="3.247cm" />
+    </style:style>
+    <style:style style:name="Translation-ce4" style:family="table-cell">
+      <style:table-cell-properties fo:wrap-option="no-wrap" style:vertical-align="automatic" />
+    </style:style>
+    <style:style style:name="Base-co1" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="2.258cm" />
+    </style:style>
+    <style:style style:name="Base-ce1" style:family="table-cell" />
+    <style:style style:name="Base-co2" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="2.258cm" />
+    </style:style>
+    <style:style style:name="Base-ce2" style:family="table-cell" />
+  </office:automatic-styles>
+  <office:body>
+    <office:spreadsheet>
+      <table:table table:name="Translation">
+        <table:table-column table:style-name="Translation-co1" table:default-cell-style-name="Translation-ce1" />
+        <table:table-column table:style-name="Translation-co2" table:default-cell-style-name="Translation-ce2" />
+        <table:table-column table:style-name="Translation-co3" table:default-cell-style-name="Translation-ce3" />
+        <table:table-column table:style-name="Translation-co4" table:default-cell-style-name="Translation-ce4" />
+        <table:table-row>
+          <table:table-cell>
+            <text:p>key</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>en</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>vi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>ja</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;characters.name.alba&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;characters.name.alba&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Alba</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>アルバ</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;characters.name.aoi&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;characters.name.aoi&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>アオイ</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;characters.name.ch1_blackpass_mom&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;characters.name.ch1_blackpass_mom&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Mẹ?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>母親？</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;characters.name.ch1_bunny&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;characters.name.ch1_bunny&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Thỏ con</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>ウサギ</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;characters.name.ch1_cashier&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;characters.name.ch1_cashier&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Người thu ngân</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>店員</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;characters.name.ch1_moth_boy&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;characters.name.ch1_moth_boy&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Ngài Vàng</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>黄色い蛾</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;characters.name.ch1_moth_girl&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;characters.name.ch1_moth_girl&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Ngài Trắng</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>白い蛾</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;characters.name.ch1_npc_a&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;characters.name.ch1_npc_a&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Đứa gái A</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>少女A</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;characters.name.ch1_npc_b&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;characters.name.ch1_npc_b&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Đứa gái B</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>少女B</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;characters.name.ch1_spider&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;characters.name.ch1_spider&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Nhền Nhện</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>スパイダー</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;characters.name.ch1_terrarium&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;characters.name.ch1_terrarium&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Sâu</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>イモムシ</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;characters.name.hiro&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;characters.name.hiro&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Hiro</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>ヒロ</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;characters.name.hoodie&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;characters.name.hoodie&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>???</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>？？？</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;characters.name.kett&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;characters.name.kett&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Kett</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>ケット</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;characters.name.kozmo&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;characters.name.kozmo&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Kozmo</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>コズモ</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;characters.name.lacie&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;characters.name.lacie&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>レイシー</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;characters.name.milion&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;characters.name.milion&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Milion</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>ミリオン</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;characters.name.mk&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;characters.name.mk&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Chị Dao</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>ミス・ナイヴズ</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;characters.name.rune&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;characters.name.rune&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Rune</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>ルーン</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;characters.name.sai&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;characters.name.sai&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Sai</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>サイ</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;characters.name.shadowgirl&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;characters.name.shadowgirl&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Cô gái Bóng</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>影の少女</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;characters.name.unknown&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;characters.name.unknown&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>???</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>？？？</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row table:number-rows-repeated="1048552">
+          <table:table-cell table:number-columns-repeated="4" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="4" />
+        </table:table-row>
+        <calcext:conditional-formats>
+          <calcext:conditional-format calcext:target-range-address="Translation.C1:Translation.C1048576">
+            <calcext:condition calcext:apply-style-name="Bad" calcext:value="formula-is(AND(LEN(TRIM([.B1]))&gt;0; LEN(TRIM([.C1]))=0))" calcext:base-cell-address="Translation.C1" />
+          </calcext:conditional-format>
+        </calcext:conditional-formats>
+      </table:table>
+      <table:table table:name="Base">
+        <table:table-column table:style-name="Base-co1" table:default-cell-style-name="Base-ce1" />
+        <table:table-column table:style-name="Base-co2" table:default-cell-style-name="Base-ce2" />
+        <table:table-row>
+          <table:table-cell>
+            <text:p>key</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>en</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>characters.name.alba</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Alba</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>characters.name.aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Aoi</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>characters.name.ch1_blackpass_mom</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Mother?</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>characters.name.ch1_bunny</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Bunny</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>characters.name.ch1_cashier</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Cashier</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>characters.name.ch1_lockedsite_primal</text:p>
+          </table:table-cell>
+          <table:table-cell />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>characters.name.ch1_mk_ghost</text:p>
+          </table:table-cell>
+          <table:table-cell />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>characters.name.ch1_mk_painting</text:p>
+          </table:table-cell>
+          <table:table-cell />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>characters.name.ch1_moth_boy</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Yellow Moth</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>characters.name.ch1_moth_girl</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>White Moth</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>characters.name.ch1_npc_a</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Girl A</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>characters.name.ch1_npc_b</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Girl B</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>characters.name.ch1_primal_1</text:p>
+          </table:table-cell>
+          <table:table-cell />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>characters.name.ch1_primal_2</text:p>
+          </table:table-cell>
+          <table:table-cell />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>characters.name.ch1_spider</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Spider</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>characters.name.ch1_terrarium</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Caterpillar</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>characters.name.chara1</text:p>
+          </table:table-cell>
+          <table:table-cell />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>characters.name.chara2</text:p>
+          </table:table-cell>
+          <table:table-cell />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>characters.name.chara3</text:p>
+          </table:table-cell>
+          <table:table-cell />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>characters.name.chara4</text:p>
+          </table:table-cell>
+          <table:table-cell />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>characters.name.hiro</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Hiro</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>characters.name.hoodie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>???</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>characters.name.kett</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Kett</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>characters.name.kozmo</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Kozmo</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>characters.name.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Lacie</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>characters.name.milion</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Milion</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>characters.name.mk</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Miss Knives</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>characters.name.rune</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Rune</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>characters.name.sai</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Sai</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>characters.name.shadowgirl</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Shadow Girl</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>characters.name.unknown</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>???</text:p>
+          </table:table-cell>
+        </table:table-row>
+      </table:table>
+      <table:named-expressions />
+    </office:spreadsheet>
+  </office:body>
+</office:document>

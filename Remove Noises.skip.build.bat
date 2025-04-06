@@ -1,0 +1,1 @@
+"%~dp0Remove Noises.bat" skip.build

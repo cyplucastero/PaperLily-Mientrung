@@ -1,0 +1,764 @@
+<?xml version="1.0" encoding="utf-8"?>
+<office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
+  <office:automatic-styles>
+    <style:style style:name="Translation-co1" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="6.969cm" />
+    </style:style>
+    <style:style style:name="Translation-ce1" style:family="table-cell">
+      <style:table-cell-properties fo:wrap-option="no-wrap" style:vertical-align="top" />
+    </style:style>
+    <style:style style:name="Translation-co2" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="9.105cm" />
+    </style:style>
+    <style:style style:name="Translation-ce2" style:family="table-cell">
+      <style:table-cell-properties fo:wrap-option="no-wrap" style:vertical-align="top" />
+    </style:style>
+    <style:style style:name="Translation-co3" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="9.105cm" />
+    </style:style>
+    <style:style style:name="Translation-ce3" style:family="table-cell">
+      <style:table-cell-properties fo:wrap-option="no-wrap" style:vertical-align="top" />
+      <style:map style:condition="is-true-formula(AND(LEN(TRIM([.B1]))&gt;0; LEN(TRIM([.C1]))=0))" style:apply-style-name="Bad" style:base-cell-address="Translation.C1" />
+    </style:style>
+    <style:style style:name="Translation-co4" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="9.105cm" />
+    </style:style>
+    <style:style style:name="Translation-ce4" style:family="table-cell">
+      <style:table-cell-properties fo:wrap-option="no-wrap" style:vertical-align="top" />
+    </style:style>
+    <style:style style:name="Base-co1" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="2.258cm" />
+    </style:style>
+    <style:style style:name="Base-ce1" style:family="table-cell" />
+    <style:style style:name="Base-co2" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="2.258cm" />
+    </style:style>
+    <style:style style:name="Base-ce2" style:family="table-cell" />
+  </office:automatic-styles>
+  <office:body>
+    <office:spreadsheet>
+      <table:table table:name="Translation">
+        <table:table-column table:style-name="Translation-co1" table:default-cell-style-name="Translation-ce1" />
+        <table:table-column table:style-name="Translation-co2" table:default-cell-style-name="Translation-ce2" />
+        <table:table-column table:style-name="Translation-co3" table:default-cell-style-name="Translation-ce3" />
+        <table:table-column table:style-name="Translation-co4" table:default-cell-style-name="Translation-ce4" />
+        <table:table-row>
+          <table:table-cell>
+            <text:p>key</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>en</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>vi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>ja</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.screen.projectkat.warning&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.screen.projectkat.warning&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>CẢNH BÁO</text:p>
+            <text:p />
+            <text:p>Trò chơi này có thể chứa ánh sáng và hiệu ứng chớp nháy,</text:p>
+            <text:p>cùng với nội dung có miêu tả bạo lực và ngôn từ thô lỗ.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>警告</text:p>
+            <text:p />
+            <text:p>このゲームには激しい光の点滅、</text:p>
+            <text:p>および暴力描写や乱暴な言葉遣いが含まれます。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.screen.specialthanks&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.screen.specialthanks&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Trân trọng cảm ơn</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>スペシャルサンクス</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.screen.specialthanks.video&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.screen.specialthanks.video&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Những người đã làm video hay stream</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>動画投稿や配信をしてくださった皆様</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.screen.specialthanks.survey&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.screen.specialthanks.survey&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Những người đã hoàn thành khảo sát</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>アンケートに協力してくださった皆様</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.screen.specialthanks.comment&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.screen.specialthanks.comment&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Những người đã để lại bình luận và đánh giá</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>コメントや評価をくださった皆様</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.screen.specialthanks.family&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.screen.specialthanks.family&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Bạn bè và gia đình của chúng tôi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>家族と友人の皆様</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.screen.specialthanks.you&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.screen.specialthanks.you&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Và bạn!</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>そしてあなた！</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.screen.notefromdevs&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.screen.notefromdevs&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Lời nhắn từ các dev:</text:p>
+            <text:p>Chúng tôi vô cùng cảm kích bạn đã chơi qua trò chơi bé nhỏ này! Với chúng tôi, đó là niềm vui không gì thay thế được!</text:p>
+            <text:p />
+            <text:p>Cái mà bạn vừa chơi xong là phần mở đầu của Paper Lily, một dự án lớn hơn mà chúng tôi hiện tại đang tiến hành. Bây giờ Chương 1 đã ra mắt rồi nên mong bạn hãy thử qua nhé!</text:p>
+            <text:p />
+            <text:p>Nếu bạn thích thú với trò chơi này thì hãy để lại đánh giá nhé, làm thế sẽ giúp đỡ chúng tôi nhiều lắm!</text:p>
+            <text:p />
+            <text:p>Cảm ơn các bạn rất nhiều!!!</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>開発者より:</text:p>
+            <text:p>私たちのささやかなゲームをプレイして下さりありがとうございます！私たちにとっては何物にも代えがたい喜びです！</text:p>
+            <text:p />
+            <text:p>今プレイして頂いたのは、私たちが現在取り組んでいる、より大きなプロジェクト、Paper Lilyのプロローグに当たるものです。現在、第1章(Chapter 1)が公開中ですので、そちらも遊んでみていただければ幸いです！</text:p>
+            <text:p />
+            <text:p>楽しんでいただけたなら、レビューを残していただけるととても助かります！</text:p>
+            <text:p />
+            <text:p>本当にありがとうございました！</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.endings.k1&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.endings.k1&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Kết Đúng K1 – Tò Mò Hại Chết Con Meo</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>True End K1 - 好奇心猫をも殺す</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.cg.prologue_instructions_section1&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.cg.prologue_instructions_section1&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Ta cần:</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>材料:</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.cg.prologue_instructions_section2&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.cg.prologue_instructions_section2&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Bước làm:</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>準備:</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.cg.prologue_instructions_section3&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.cg.prologue_instructions_section3&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Sau khi chờ đợi:</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>待った後:</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.cg.prologue_instructions_need_1&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.cg.prologue_instructions_need_1&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>3 căn phòng</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>部屋 3つ</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.cg.prologue_instructions_need_2&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.cg.prologue_instructions_need_2&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>12 cây nến</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>ロウソク 12本</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.cg.prologue_instructions_need_3&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.cg.prologue_instructions_need_3&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Bật lửa</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>ライター</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.cg.prologue_instructions_need_4&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.cg.prologue_instructions_need_4&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Rune</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>ルーン</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.cg.prologue_instructions_need_5&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.cg.prologue_instructions_need_5&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Nhúm tóc</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>髪の毛ひとふさ</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.cg.prologue_instructions_need_6&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.cg.prologue_instructions_need_6&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Phấn viết</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>チョーク</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.cg.prologue_instructions_prep_1&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.cg.prologue_instructions_prep_1&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>1) Sắp xếp bàn dạt sang hai bên trong mỗi lớp học</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>1) 各教室の机を脇に寄せる</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.cg.prologue_instructions_prep_2&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.cg.prologue_instructions_prep_2&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>2) Tắt hết đèn và kéo rèm lại trong mỗi lớp học</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>2) 電気を全て消し、各教室のカーテンを引く</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.cg.prologue_instructions_prep_3&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.cg.prologue_instructions_prep_3&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>3) Vẽ một con đường bằng phấn xuyên qua 3 lớp học</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>3) 3つの部屋を貫く道を描く (チョークで)</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.cg.prologue_instructions_prep_4&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.cg.prologue_instructions_prep_4&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>4) Ở phòng chính giữa, trên mỗi bàn đặt một cây nến</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>4) 真ん中の部屋の机に1本ずつロウソクを置く</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.cg.prologue_instructions_prep_5&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.cg.prologue_instructions_prep_5&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>5) Thắp nến lên rồi đợi ít nhất 5 phút</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>5) ロウソクを灯し、最低5分待つ</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.cg.prologue_instructions_after_1&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.cg.prologue_instructions_after_1&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>6) Đốt nhúm tóc trên một ngọn nến bất kì</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>6) 髪の毛の束をロウソクのうち1つで燃やす</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.cg.prologue_instructions_after_2&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.cg.prologue_instructions_after_2&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>7) Thổi tắt hết nến</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>7) ロウソクを全て吹き消す</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.cg.prologue_instructions_after_3&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.cg.prologue_instructions_after_3&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>8) Nhắm mắt lại rồi đếm đến 100</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>8) 目を閉じて100まで数える</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.cg.prologue_instructions_after_4&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.cg.prologue_instructions_after_4&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>9) Mở mắt ra và rồi ?????????</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>9) 目を開けると…?????????</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.cg.prologue_instructions2_title&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.cg.prologue_instructions2_title&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Kiểu kiểu giống vầy ??</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>こんな感じ？？</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.cg.prologue_instructions2_text1&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.cg.prologue_instructions2_text1&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Cửa sổ (PHẢI ĐÓNG RÈM!!)</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>窓 (カーテン閉める！！)</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.cg.prologue_instructions2_text2&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.cg.prologue_instructions2_text2&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Đường phấn trắng</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>白いチョークの線</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.cg.prologue_instructions2_text3&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.cg.prologue_instructions2_text3&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Mình</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>私</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.cg.prologue_instructions2_text4&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.cg.prologue_instructions2_text4&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Bàn học (đặt nến mỗi bàn)</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>机 (ロウソク置く)</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.characters.unknown&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.characters.unknown&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>???</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>？？？</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.characters.girl1&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.characters.girl1&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Bạn nữ Tóc đuôi ngựa</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>ポニーテールの少女</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.characters.girl2&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.characters.girl2&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Bạn nữ Xinh xắn</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>かわいい少女</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.characters.girl3&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.characters.girl3&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Bạn nữ Trầm tĩnh</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>物静かな少女</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row table:number-rows-repeated="1048538">
+          <table:table-cell table:number-columns-repeated="4" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="4" />
+        </table:table-row>
+        <calcext:conditional-formats>
+          <calcext:conditional-format calcext:target-range-address="Translation.C1:Translation.C1048576">
+            <calcext:condition calcext:apply-style-name="Bad" calcext:value="formula-is(AND(LEN(TRIM([.B1]))&gt;0; LEN(TRIM([.C1]))=0))" calcext:base-cell-address="Translation.C1" />
+          </calcext:conditional-format>
+        </calcext:conditional-formats>
+      </table:table>
+      <table:table table:name="Base">
+        <table:table-column table:style-name="Base-co1" table:default-cell-style-name="Base-ce1" />
+        <table:table-column table:style-name="Base-co2" table:default-cell-style-name="Base-ce2" />
+        <table:table-row>
+          <table:table-cell>
+            <text:p>key</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>en</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>system.screen.projectkat.warning</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>WARNING</text:p>
+            <text:p />
+            <text:p>This game may contain flashing lights and effects,</text:p>
+            <text:p>as well as depictions of violence and strong language.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>system.screen.specialthanks</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Special Thanks</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>system.screen.specialthanks.video</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Everyone who made a video or stream</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>system.screen.specialthanks.survey</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Everyone who completed the survey</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>system.screen.specialthanks.comment</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Everyone who left a comment or rating</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>system.screen.specialthanks.family</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Our families and friends</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>system.screen.specialthanks.you</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>And You!</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>system.screen.notefromdevs</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Note from the devs:</text:p>
+            <text:p>We really appreciate you taking the time to play our little game! It means the world to us!</text:p>
+            <text:p />
+            <text:p>What you have played is the prologue of Paper Lily, a larger project we are currently working on. Right now, Chapter 1 is out so we hope you'll give it a try!</text:p>
+            <text:p />
+            <text:p>If you liked what you played, it would help us a lot if you could leave a review!</text:p>
+            <text:p />
+            <text:p>Thank you so much!</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>system.endings.k1</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>True End K1 - Curiosity Killed the Kat</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>system.cg.prologue_instructions_section1</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>I need:</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>system.cg.prologue_instructions_section2</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Preparations:</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>system.cg.prologue_instructions_section3</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>After waiting:</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>system.cg.prologue_instructions_need_1</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>3 rooms</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>system.cg.prologue_instructions_need_2</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>12 candles</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>system.cg.prologue_instructions_need_3</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>A lighter</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>system.cg.prologue_instructions_need_4</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>A rune</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>system.cg.prologue_instructions_need_5</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>A tuft of hair</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>system.cg.prologue_instructions_need_6</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Chalk</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>system.cg.prologue_instructions_prep_1</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>1) Sort the desks in each classroom</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>system.cg.prologue_instructions_prep_2</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>2) Turn off all the lights &amp; draw the curtains in each classroom</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>system.cg.prologue_instructions_prep_3</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>3) Draw a path going through the 3 rooms (with chalk)</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>system.cg.prologue_instructions_prep_4</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>4) In the middle room, place one candle on each desk</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>system.cg.prologue_instructions_prep_5</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>5) Light the candles &amp; wait at least 5 minutes</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>system.cg.prologue_instructions_after_1</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>6) Burn the tuft of hair on one of the candles</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>system.cg.prologue_instructions_after_2</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>7) Blow out all of the candles</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>system.cg.prologue_instructions_after_3</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>8) Close your eyes and count to 100</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>system.cg.prologue_instructions_after_4</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>9) Open your eyes and then ?????????</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>system.cg.prologue_instructions2_title</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Something like this ??</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>system.cg.prologue_instructions2_text1</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Windows (CLOSE CURTAINS!!)</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>system.cg.prologue_instructions2_text2</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>White chalk lines</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>system.cg.prologue_instructions2_text3</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Me</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>system.cg.prologue_instructions2_text4</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Desks (candle on each)</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>misc.characters.unknown</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>???</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>misc.characters.girl1</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Ponytail Girl</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>misc.characters.girl2</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Pretty Girl</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>misc.characters.girl3</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Quiet Girl</text:p>
+          </table:table-cell>
+        </table:table-row>
+      </table:table>
+      <table:named-expressions />
+    </office:spreadsheet>
+  </office:body>
+</office:document>

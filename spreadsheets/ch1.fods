@@ -1,0 +1,1202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
+  <office:automatic-styles>
+    <style:style style:name="Translation-co1" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="6.078cm" />
+    </style:style>
+    <style:style style:name="Translation-ce1" style:family="table-cell">
+      <style:table-cell-properties fo:wrap-option="no-wrap" style:vertical-align="top" />
+    </style:style>
+    <style:style style:name="Translation-co2" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="10.358cm" />
+    </style:style>
+    <style:style style:name="Translation-ce2" style:family="table-cell">
+      <style:table-cell-properties fo:wrap-option="wrap" style:vertical-align="top" />
+    </style:style>
+    <style:style style:name="Translation-co3" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="10.358cm" />
+    </style:style>
+    <style:style style:name="Translation-ce3" style:family="table-cell">
+      <style:table-cell-properties fo:wrap-option="wrap" style:vertical-align="top" />
+      <style:map style:condition="is-true-formula(AND(LEN(TRIM([.B1]))&gt;0; LEN(TRIM([.C1]))=0))" style:apply-style-name="Bad" style:base-cell-address="Translation.C1" />
+    </style:style>
+    <style:style style:name="Translation-co4" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="10.358cm" />
+    </style:style>
+    <style:style style:name="Translation-ce4" style:family="table-cell">
+      <style:table-cell-properties fo:wrap-option="wrap" style:vertical-align="top" />
+    </style:style>
+    <style:style style:name="Base-co1" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="2.258cm" />
+    </style:style>
+    <style:style style:name="Base-ce1" style:family="table-cell" />
+    <style:style style:name="Base-co2" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="2.258cm" />
+    </style:style>
+    <style:style style:name="Base-ce2" style:family="table-cell" />
+  </office:automatic-styles>
+  <office:body>
+    <office:spreadsheet>
+      <table:table table:name="Translation">
+        <table:table-column table:style-name="Translation-co1" table:default-cell-style-name="Translation-ce1" />
+        <table:table-column table:style-name="Translation-co2" table:default-cell-style-name="Translation-ce2" />
+        <table:table-column table:style-name="Translation-co3" table:default-cell-style-name="Translation-ce3" />
+        <table:table-column table:style-name="Translation-co4" table:default-cell-style-name="Translation-ce4" />
+        <table:table-row>
+          <table:table-cell>
+            <text:p>key</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>en</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>vi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>ja</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.screen.paperlily.warning&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.screen.paperlily.warning&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Đây là bản demo.</text:p>
+            <text:p>Phiên bản này có thể không tiêu biểu chính xác cho chất lượng của sản phẩm cuối cùng.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>これはデモ版です。</text:p>
+            <text:p>完成品のクオリティを適切に反映していない可能性があります。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.screen.paperlily.introwarning&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.screen.paperlily.introwarning&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Trò chơi này có thể chứa ánh sáng và hiệu ứng chớp nháy,</text:p>
+            <text:p>cùng với nội dung có miêu tả bạo lực và ngôn từ thô lỗ.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>このゲームには激しい光の点滅、</text:p>
+            <text:p>および暴力描写や乱暴な言葉遣いが含まれます。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.screen.paperlilych1.specialthanks.video&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.screen.paperlilych1.specialthanks.video&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Các Nhà Sáng tạo Video và Các Streamer</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>映像クリエイター・配信者の皆様</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.screen.paperlilych1.specialthanks.comment&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.screen.paperlilych1.specialthanks.comment&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Những Người Bình luận và Đánh giá</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>コメントやレビューをくれた皆様</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.screen.paperlilych1.specialthanks.family&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.screen.paperlilych1.specialthanks.family&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Gia đình và Bạn bè Chúng tôi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>家族と友人</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.screen.paperlilych1.additionalthanks.title&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.screen.paperlilych1.additionalthanks.title&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Thêm lời cảm ơn</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>アディショナルサンクス</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.screen.paperlilych1.additionalthanks.fans&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.screen.paperlilych1.additionalthanks.fans&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Cho fan chúng tôi vì đã kiên nhẫn chờ đợi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>辛抱強く待ってくれたファンの皆様</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.screen.paperlilych1.additionalthanks.parents&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.screen.paperlilych1.additionalthanks.parents&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Cho ba và mẹ của Kaiyo vì đã giúp đỡ không ngừng nghỉ</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>揺るぎなく支え続けてくれたKaiyoのママとパパ</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.screen.paperlilych1.additionalthanks.email&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.screen.paperlilych1.additionalthanks.email&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Cho những người đã gửi thư động viên</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>励ましのメールを送ってくれた皆様</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.screen.paperlilych1.additionalthanks.you&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.screen.paperlilych1.additionalthanks.you&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Và cho Bạn!</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>そしてあなた！</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.screen.paperlilych1.additionalthanks.thankyou&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.screen.paperlilych1.additionalthanks.thankyou&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Cảm ơn bạn đã chơi...</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>プレイしてくださりありがとうございます……</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.screen.paperlilych1.additionalthanks.seeyou&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.screen.paperlilych1.additionalthanks.seeyou&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Hẹn gặp lại trong Chương 2!</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>第2章でお会いしましょう！</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.screen.paperlilych1.credits.mkdesign&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.screen.paperlilych1.credits.mkdesign&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Thiết kế Nguyên bản Chị Dao</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>ミス・ナイヴズ オリジナルデザイン</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.screen.paperlilych1.credits.mkcontest&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.screen.paperlilych1.credits.mkcontest&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Những Người thắng Cuộc thi Vẽ Chị Dao</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>ミス・ナイヴズのコンテスト受賞者</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.screen.paperlilych1.credits.cabbage&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.screen.paperlilych1.credits.cabbage&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Các Bậc thầy Cải bắp</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>キャベツマスター</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.screen.paperlilych1.notefromdevs&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.screen.paperlilych1.notefromdevs&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Lời nhắn từ các dev:</text:p>
+            <text:p>Chúc mừng bạn đã đi xa đến thế này trong câu chuyện Paper Lily!</text:p>
+            <text:p>Vô cùng cảm ơn bạn đã ủng hộ và có lòng nhiệt tình cho cái thế giới bé nhỏ mà chúng tôi tạo ra này. Nếu có thời gian, đừng ngại ngần để lại đánh giá bạn nhé, sẽ giúp được nhiều lắm.</text:p>
+            <text:p />
+            <text:p>Chúng tôi vẫn chỉ là hai kẻ ngốc nghếch làm con game này, thành thử nếu bạn muốn hỗ trợ việc phát triển trong tương lai thì bạn hãy cân nhắc việc mua gói supporter nha!</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>開発者より:</text:p>
+            <text:p>Paper Lilyの物語のここまでたどり着いて下さったこと、お祝い申し上げます！</text:p>
+            <text:p>私たちの創ったこの小さな世界を支援し、熱意をもって迎えていただき、本当にありがとうございます。お時間があれば、気兼ねなくレビューを残していただけるとものすごく助かります。</text:p>
+            <text:p />
+            <text:p>私たちは未だにたった2人のバカだけでこのゲームを作っていますので、今後の開発を支援したい方は、サポーターパックの購入をご検討いただけますと幸いです！</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.endings.1-1&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.endings.1-1&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Kết Đúng 1-1 – Chấp Mọi Trắc Trở</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>True End 1-1 - 困難を越えて</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.menu.costume.default&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.menu.costume.default&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Thay sang đồng phục</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>制服に着替える</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.menu.costume.indoors&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.menu.costume.indoors&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Thay sang đồ mặc ở nhà</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>部屋着に着替える</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.menu.costume.cancel&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.menu.costume.cancel&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Không thay đồ</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>着替えない</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.cg.ch1_todolist_title&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.cg.ch1_todolist_title&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Mấy điều cần làm</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>やることリスト</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.cg.ch1_todolist_subtitle&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.cg.ch1_todolist_subtitle&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>(trước khi chết)</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>(死ぬ前に)</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.cg.ch1_todolist_item1&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.cg.ch1_todolist_item1&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>- Ra ngoài</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>・外に出る</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.cg.ch1_todolist_item2&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.cg.ch1_todolist_item2&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>- Ăn bữa mẹ để lại</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>・ママが残していったご飯を食べる</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.cg.ch1_todolist_item3&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.cg.ch1_todolist_item3&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>- Đổ đầy đồ cho chim ăn</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>・鳥のエサ箱を補充する</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.cg.ch1_todolist_item4&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.cg.ch1_todolist_item4&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>- Cho TamaGhost ăn</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>・たまごーすとにごはんをあげる</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.cg.ch1_todolist_item5&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;system.cg.ch1_todolist_item5&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>- Chào từ biệt anh trai</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>・ヒロにさよならを言う</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.strings.order_1A&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.strings.order_1A&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Một cà-phê với một flan</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>コーヒーとフラン</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.strings.order_1B&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.strings.order_1B&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Một cà-phê với bánh macaron</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>コーヒーとマカロン</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.strings.order_1C&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.strings.order_1C&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Một cà-phê với một éclair</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>コーヒーとエクレア</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.strings.order_2A&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.strings.order_2A&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Trà xanh với bánh flan</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>お茶とフラン</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.strings.order_2B&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.strings.order_2B&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Trà xanh với bánh macaron</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>お茶とマカロン</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.strings.order_2C&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.strings.order_2C&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Trà xanh với bánh su kem</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>お茶とエクレア</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.strings.order_3A&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.strings.order_3A&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Một sữa lắc với một bánh flan</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>ミルクシェイクとフラン</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.strings.order_3B&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.strings.order_3B&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Một sữa lắc với bánh macaron</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>ミルクシェイクとマカロン</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.strings.order_3C&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.strings.order_3C&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Một sữa lắc với một éclair</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>ミルクシェイクとエクレア</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.characters.unknown&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.characters.unknown&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>???</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>？？？</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.characters.npc_a&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.characters.npc_a&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Đứa gái A</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>少女A</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.characters.npc_b&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.characters.npc_b&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Đứa gái B</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>少女B</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.characters.npc_c&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.characters.npc_c&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Người nam</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>男性</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.characters.npc_d&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.characters.npc_d&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Người nữ</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>女性</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.characters.npc_e&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.characters.npc_e&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Đứa con</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>子供</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.characters.npc_f&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.characters.npc_f&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Người mẹ</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>母親</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.characters.student&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.characters.student&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Học sinh</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>生徒</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.characters.student_bully&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.characters.student_bully&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Đứa bắt nạt</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>いじめっ子</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.characters.student_all&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.characters.student_all&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Cả đám</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>全員</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.characters.mother&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.characters.mother&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Mẹ</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>母親</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.characters.father&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.characters.father&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Ba</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>父親</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.characters.neighbor&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.characters.neighbor&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Hàng xóm</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>近所の人</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.characters.demon_1&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.characters.demon_1&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Quái vật Mặt Dài</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>長い顔の怪物</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.characters.demon_2&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.characters.demon_2&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Quái vật Một Mắt</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>一つ目の怪物</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.characters.demon_3&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.characters.demon_3&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Bác sĩ?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>医者？</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.characters.voice_1&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.characters.voice_1&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Giọng nói 1</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>声1</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.characters.voice_2&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.characters.voice_2&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Giọng nói 2</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>声2</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.characters.voice_3&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.characters.voice_3&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Giọng nói 3</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>声3</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.characters.prisoner&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.characters.prisoner&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Tù phạm</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>囚人</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.characters.lk&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.characters.lk&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Chị Dao (Trẻ)</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>ミス・ナイヴズ (幼少期)</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.characters.iris&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.characters.iris&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Iris</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>アイリス</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.characters.boy1&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.characters.boy1&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Đứa trai 1</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>少年1</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.characters.boy2&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.characters.boy2&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Đứa trai 2</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>少年2</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.characters.boy3&quot;;[$Base.$A:.$B];1;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;misc.characters.boy3&quot;;[$Base.$A:.$B];2;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Đứa trai 3</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>少年3</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row table:number-rows-repeated="1048513">
+          <table:table-cell table:number-columns-repeated="4" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="4" />
+        </table:table-row>
+        <calcext:conditional-formats>
+          <calcext:conditional-format calcext:target-range-address="Translation.C1:Translation.C1048576">
+            <calcext:condition calcext:apply-style-name="Bad" calcext:value="formula-is(AND(LEN(TRIM([.B1]))&gt;0; LEN(TRIM([.C1]))=0))" calcext:base-cell-address="Translation.C1" />
+          </calcext:conditional-format>
+        </calcext:conditional-formats>
+      </table:table>
+      <table:table table:name="Base">
+        <table:table-column table:style-name="Base-co1" table:default-cell-style-name="Base-ce1" />
+        <table:table-column table:style-name="Base-co2" table:default-cell-style-name="Base-ce2" />
+        <table:table-row>
+          <table:table-cell>
+            <text:p>key</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>en</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>system.screen.paperlily.warning</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>This is a demo.</text:p>
+            <text:p>It might not properly represent the quality of the final product.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>system.screen.paperlily.introwarning</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>This game may contain flashing lights and effects,</text:p>
+            <text:p>as well as depictions of violence and strong language.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>system.screen.paperlilych1.specialthanks.video</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Video Creators and Streamers</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>system.screen.paperlilych1.specialthanks.comment</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Commenters and Reviewers</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>system.screen.paperlilych1.specialthanks.family</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Our Families and Friends</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>system.screen.paperlilych1.additionalthanks.title</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Additional Thanks</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>system.screen.paperlilych1.additionalthanks.fans</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>To our fans for waiting patiently</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>system.screen.paperlilych1.additionalthanks.parents</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>To Kaiyo's mom and dad for their unwavering support</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>system.screen.paperlilych1.additionalthanks.email</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>To those who sent an encouraging email</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>system.screen.paperlilych1.additionalthanks.you</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>And to You!</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>system.screen.paperlilych1.additionalthanks.thankyou</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Thank you for playing...</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>system.screen.paperlilych1.additionalthanks.seeyou</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>See you in Chapter 2!</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>system.screen.paperlilych1.credits.mkdesign</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Miss Knives Original Design</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>system.screen.paperlilych1.credits.mkcontest</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Miss Knives Contest Winners</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>system.screen.paperlilych1.credits.cabbage</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Cabbage Masters</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>system.screen.paperlilych1.notefromdevs</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Note from the devs:</text:p>
+            <text:p>Congratulations for getting this far in the Paper Lily story!</text:p>
+            <text:p>Thank you so much for your support and enthusiasm for this little world we created. Please don't hesitate to leave a review if you have the time, it helps immensely.</text:p>
+            <text:p />
+            <text:p>We're still only two idiots making this game, so if you want to support future development please consider purchasing the supporter pack!</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>system.endings.1-1</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>True End 1-1 - Against All Odds</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>system.menu.costume.default</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Change into uniform</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>system.menu.costume.indoors</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Change into indoor clothes</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>system.menu.costume.cancel</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Don't change</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>system.cg.ch1_todolist_title</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Things to do</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>system.cg.ch1_todolist_subtitle</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>(before I die)</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>system.cg.ch1_todolist_item1</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>- Go out</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>system.cg.ch1_todolist_item2</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>- Eat the meal mom left me</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>system.cg.ch1_todolist_item3</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>- Fill up the bird feeder</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>system.cg.ch1_todolist_item4</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>- Feed my Tamaghost</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>system.cg.ch1_todolist_item5</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>- Say goodbye to Hiro</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>misc.strings.order_1A</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>A coffee and a flan</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>misc.strings.order_1B</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>A coffee and macarons</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>misc.strings.order_1C</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>A coffee and an eclair</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>misc.strings.order_2A</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>A tea and a flan</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>misc.strings.order_2B</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>A tea and macarons</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>misc.strings.order_2C</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>A tea and an eclair</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>misc.strings.order_3A</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>A milkshake and a flan</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>misc.strings.order_3B</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>A milkshake and macarons</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>misc.strings.order_3C</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>A milkshake and an eclair</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>misc.characters.unknown</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>???</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>misc.characters.npc_a</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Girl A</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>misc.characters.npc_b</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Girl B</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>misc.characters.npc_c</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Man</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>misc.characters.npc_d</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Lady</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>misc.characters.npc_e</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Child</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>misc.characters.npc_f</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Mother</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>misc.characters.student</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Student</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>misc.characters.student_bully</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Bully</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>misc.characters.student_all</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Everyone</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>misc.characters.mother</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Mother</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>misc.characters.father</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Father</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>misc.characters.neighbor</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Neighbor</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>misc.characters.demon_1</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Long-Faced Monster</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>misc.characters.demon_2</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>One-Eyed Monster</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>misc.characters.demon_3</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Doctor?</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>misc.characters.voice_1</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Voice 1</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>misc.characters.voice_2</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Voice 2</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>misc.characters.voice_3</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Voice 3</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>misc.characters.prisoner</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Prisoner</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>misc.characters.lk</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Miss Knives (Young)</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>misc.characters.iris</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Iris</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>misc.characters.boy1</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Boy 1</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>misc.characters.boy2</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Boy 2</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>misc.characters.boy3</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Boy 3</text:p>
+          </table:table-cell>
+        </table:table-row>
+      </table:table>
+      <table:named-expressions />
+    </office:spreadsheet>
+  </office:body>
+</office:document>

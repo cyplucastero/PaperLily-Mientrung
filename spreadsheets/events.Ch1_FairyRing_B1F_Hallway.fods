@@ -1,0 +1,3782 @@
+<?xml version="1.0" encoding="utf-8"?>
+<office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
+  <office:automatic-styles>
+    <style:style style:name="Translation-co1" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="2.258cm" />
+    </style:style>
+    <style:style style:name="Translation-ce1" style:family="table-cell">
+      <style:table-cell-properties style:vertical-align="top" />
+    </style:style>
+    <style:style style:name="Translation-co2" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="4.083cm" />
+    </style:style>
+    <style:style style:name="Translation-ce2" style:family="table-cell">
+      <style:table-cell-properties style:vertical-align="top" />
+    </style:style>
+    <style:style style:name="Translation-co3" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="10.102cm" />
+    </style:style>
+    <style:style style:name="Translation-ce3" style:family="table-cell">
+      <style:table-cell-properties fo:wrap-option="wrap" style:vertical-align="top" />
+    </style:style>
+    <style:style style:name="Translation-co4" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="10.102cm" />
+    </style:style>
+    <style:style style:name="Translation-ce4" style:family="table-cell">
+      <style:table-cell-properties fo:wrap-option="wrap" style:vertical-align="top" />
+      <style:map style:condition="is-true-formula(AND(LEN(TRIM([.C1]))&gt;0; LEN(TRIM([.D1]))=0))" style:apply-style-name="Bad" style:base-cell-address="Translation.D1" />
+    </style:style>
+    <style:style style:name="Translation-co5" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="10.102cm" />
+    </style:style>
+    <style:style style:name="Translation-ce5" style:family="table-cell">
+      <style:table-cell-properties fo:wrap-option="wrap" style:vertical-align="top" />
+    </style:style>
+    <style:style style:name="Base-co1" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="2.258cm" />
+    </style:style>
+    <style:style style:name="Base-ce1" style:family="table-cell" />
+    <style:style style:name="Base-co2" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="2.258cm" />
+    </style:style>
+    <style:style style:name="Base-ce2" style:family="table-cell" />
+    <style:style style:name="Base-co3" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="2.258cm" />
+    </style:style>
+    <style:style style:name="Base-ce3" style:family="table-cell" />
+    <style:style style:name="Base-co4" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="2.258cm" />
+    </style:style>
+    <style:style style:name="Base-ce4" style:family="table-cell" />
+    <style:style style:name="Base-co5" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="2.258cm" />
+    </style:style>
+    <style:style style:name="Base-ce5" style:family="table-cell" />
+    <style:style style:name="Config-co1" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="2.258cm" />
+    </style:style>
+    <style:style style:name="Config-ce1" style:family="table-cell" />
+    <style:style style:name="Config-co2" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="2.258cm" />
+    </style:style>
+    <style:style style:name="Config-ce2" style:family="table-cell" />
+    <style:style style:name="Config-co3" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="2.258cm" />
+    </style:style>
+    <style:style style:name="Config-ce3" style:family="table-cell" />
+    <style:style style:name="Config-co4" style:family="table-column">
+      <style:table-column-properties fo:break-before="auto" style:column-width="2.258cm" />
+    </style:style>
+    <style:style style:name="Config-ce4" style:family="table-cell" />
+  </office:automatic-styles>
+  <office:body>
+    <office:spreadsheet>
+      <table:table table:name="Translation">
+        <table:table-column table:style-name="Translation-co1" table:default-cell-style-name="Translation-ce1" />
+        <table:table-column table:style-name="Translation-co2" table:default-cell-style-name="Translation-ce2" />
+        <table:table-column table:style-name="Translation-co3" table:default-cell-style-name="Translation-ce3" />
+        <table:table-column table:style-name="Translation-co4" table:default-cell-style-name="Translation-ce4" />
+        <table:table-column table:style-name="Translation-co5" table:default-cell-style-name="Translation-ce5" />
+        <table:table-row>
+          <table:table-cell>
+            <text:p>context</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>extra</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>en</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>vi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>ja</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event event_artist</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;1&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;1&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;1&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>(Ồ... biết cái này ở đâu ra rồi.)</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>(あ……ここは知ってる。)</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;2&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;2&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;2&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Cái này chắc phải là bên dưới cái nhà của cái ông kì kì đó.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>ここはきっと、あの変な芸術家の家だね。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;3&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;3&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;3&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Cái.. ông điêu khắc đó ấy?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>ほら、あの彫刻のさ。知ってる？</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;4&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;4&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;4&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Ừ.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>うん。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;5&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;5&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;5&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Tớ thấy mấy nghệ sĩ ấn tượng lắm!</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>芸術家ってすごいよね！</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;6&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;6&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;6&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>(Cái gì đây...?)</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>(何これ……？)</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;7&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;7&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;7&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Cái này chắc phải là bên dưới cái nhà của cái ông kì kì đó.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>ここはきっと、あの変な芸術家の家だね。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;8&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;8&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;8&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Cái.. ông điêu khắc đó ấy?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>ほら、あの彫刻のさ。知ってる？</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;9&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;9&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;9&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>...</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>……</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;10&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;10&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;10&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Không rõ.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>知らないかも。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;11&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;11&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;11&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Ồ, ông đó là nghệ sĩ già gàn dở á.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>気難しい芸術家のおじいさんだよ。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;12&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;12&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;12&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Tớ chưa nói chuyện với ổng bao giờ tại khi ổng mệt là lại nổi cáu.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>話しかけたことはないんだ、疲れてると不機嫌だから。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;13&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;13&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;13&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>...Mà hầu như lúc nào ổng cũng mệt cả.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>……しかも、ほとんどいつも疲れてるし。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;14&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;14&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;14&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Nhưng mà tớ thấy mấy nghệ sĩ ấn tượng lắm!</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>でも、芸術家ってすごいよね！</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;15&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;15&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;15&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Điêu khắc nó rất là khó luôn ấy...</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>造形ってホントに難しいもん……</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;16&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;16&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;16&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Nhất là điêu khắc tay...</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>特に手は……</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;17&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;17&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;17&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Mà tớ thì chẳng làm cho tay mình ra đúng được...</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>僕、どうしても手がちゃんと作れないんだよね……</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;18&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;18&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;18&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>(Ồ, ra là vậy...)</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>(ああ、それで……)</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event event_intro</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;19&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;19&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;19&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>(Ủa... đường mở rồi này.)</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>(あれ……道が開いてる。)</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;20&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;20&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;20&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Tụi mình cần phải bước chậm... với ờ... để ý cho kĩ nha.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>ゆっくり歩いて……その……気をつけながら進まないとね。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;21&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;21&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;21&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Để ý cho kĩ cái gì cơ?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>気をつけるって、何に？</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;22&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;22&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;22&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Để ý... yêu tinh á.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>それは……妖精にだよ。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;23&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;23&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;23&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Cậu không biết chỗ này là gì hả!?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>ここがどこだか知らないの!?</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;24&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;24&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;24&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Lacie không biết chỗ này là gì hả!?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>レイシー、ここがどこだか知らないの!?</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;25&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;25&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;25&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>...Chịu, không biết thật.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>……いや、あんまり。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;26&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;26&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;26&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>...!</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>……！</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;27&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;27&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;27&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Chỗ này bên trong vòng yêu tinh đó!</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>ここはフェアリーリングの中なんだよ！</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;28&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;28&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;28&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Lacie ơi, chỗ này bên trong vòng yêu tinh đó!</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>レイシー、ここはフェアリーリングの中なんだよ！</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;29&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;29&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;29&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Ừm...</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>えっと……</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;30&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;30&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;30&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>...Cái vòng tròn nấm chỗ ngoài đó à?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>……外にある、キノコの輪っか？</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;31&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;31&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;31&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Ừ. Cái vòng yêu tinh đó đó.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>そう。それがフェアリーリング。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;32&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;32&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;32&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Thế nơi này thì là...</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>じゃあ、この場所は……</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;33&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;33&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;33&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Ở phía dưới cái vòng đó hả?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>その輪っかの下ってこと？</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;34&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;34&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;34&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Ừ.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>うん。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;35&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;35&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;35&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Ồ.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>へえ。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;36&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;36&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;36&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Cậu nói thêm đi được không?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>詳しく教えてくれる？</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;37&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;37&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;37&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Để coi... người ta hay bảo sao thì tớ biết thế thôi nha.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>えっと……僕も、みんなが言ってることしか知らないよ。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;38&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;38&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;38&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Cái thứ nhất, yêu tinh sống trong vòng yêu tinh, bọn nó gớm lắm.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>まず、フェアリーリングには妖精が住んでるんだけど、それはもう最悪な連中でさ。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;39&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;39&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;39&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>(Yêu tinh...)</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>(妖精……)</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;40&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;40&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;40&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Bọn nó trông cũng gớm luôn, đầu thì hình quả trứng tách rời khỏi cơ thể, màu thì trắng, răng thì to! Có con không có mắt!</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>見た目も最悪で、こんな、体と切り離された卵型の頭をしてて、白くて、歯が大きくて！　目がないやつもいるんだよ！</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;41&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;41&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;41&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>...</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>……</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;42&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;42&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;42&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Mà kể cả không có yêu tinh đi, sa vào trong vòng yêu tinh là...</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>でも、妖精がいなくても、フェアリーリングに閉じ込められるのは……</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;43&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;43&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;43&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Thì, nghe đồn là bị kẹt ở đây 7 năm luôn.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>噂じゃ、7年は出られないって言われてる。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;44&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;44&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;44&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Nhưng mà chưa từng có ai thoát ra được bởi vì thường người ta đều chết trước cả.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>でも、普通はその前に死ぬから、生還者はいないんだって。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;45&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;45&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;45&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Trời đất ơi kinh khủng quá, tụi mình không thoát được mất!</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>あぁひどい、僕たち出られないんだ！</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;46&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;46&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;46&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Có ráng được 7 năm đi nữa đi thì cũng là truyền thuyết thôi!</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>どうにか7年乗り切ったとしても、しょせんは伝説だし！</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;47&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;47&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;47&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Có khi cái đó là nhằm gieo hy vọng cho mấy sinh linh tội nghiệp bị vô đây!</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>ここに閉じ込められた哀れな生き物に、希望を植え付けるための嘘なのかも！</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;48&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;48&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;48&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>NHƯ TỤI MÌNH ĐÓ! CÙNG ĐƯỜNG LUÔN RỒI!!!</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>まさに僕らだ！　もうおしまいなんだ!!!</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;49&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;49&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;49&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Aoi.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>アオイ。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;50&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;50&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;50&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>...?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>……？</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;51&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;51&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;51&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Cắt ngay.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>切り上げて。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;52&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;52&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;52&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>...</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>……</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;53&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;53&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;53&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Xin lỗi.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>ごめん。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;54&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;54&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;54&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Yêu tinh nó có nguy hiểm không?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>妖精は危険なの？</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;55&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;55&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;55&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Có...</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>うん……</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;56&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;56&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;56&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>...Nhưng mà đây gì cũng nguy hiểm hết.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>……でも、危険なのは全部だよ。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;57&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;57&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;57&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Nền đất chỗ này cũng đang từ từ tiêu hóa tụi mình rồi.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>この床だって、ゆっくり僕たちを消化してる。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;58&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;58&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;58&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Cậu mang giày nên chắc không cảm thấy đâu, hê hê...</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>君は靴があるから感じないかもしれないけどね、はは……</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;59&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;59&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;59&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Tớ mang mỗi tất thôi, nên nó ăn dần vô rồi đây này...</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>僕は靴下しかないから、もう染みてきてるんだ……</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;60&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;60&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;60&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Ồ.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>へえ。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;61&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;61&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;61&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>(Mình có nên cho Aoi giày mình không?)</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>(アオイに靴をあげる？)</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;62&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;62&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;62&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Cho</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>あげる</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;63&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;63&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;63&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Thôi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>あげない</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;64&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;64&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;64&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Cậu lấy giày của tôi không?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>私の靴、使う？</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;65&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;65&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;65&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Hảảả? Cậu cho tớ giày cậu luôn á?!?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>えぇっ？　僕に君の靴を？</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;66&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;66&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;66&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Cậu tử tế quá á!</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>優しいんだね！</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;67&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;67&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;67&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Lacie tử tế quá á!</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>優しいんだね、レイシー！</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;68&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;68&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;68&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Nhưng mà thôi, tớ không sao đâu. Nếu chân tớ bắt đầu hết xài được thì cứ tạo lại thôi.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>でもいいよ、大丈夫。足が使えなくなってきたら、作り直せばいいだけだから。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;69&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;69&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;69&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Bỏng thì bỏng thôi mà không sao, tớ bị bỏng quen rồi.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>やけどはしちゃうけど、でもいいんだ、やけどには慣れてるし。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;70&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;70&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;70&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>...ừ, bỏng quen rồi...</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>……そう、慣れてる……</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;71&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;71&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;71&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Ừm... được rồi.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>うん……わかった。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;72&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;72&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;72&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>(Tốt nhất là không...)</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>(やめておこう……)</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;73&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;73&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;73&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>(Ai biết được cái nền đất này sẽ làm gì với chân mình...)</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>(この床を素足で歩いたら、私の足がどうなるかわからないし……)</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;74&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;74&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;74&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>(Cái tên này không phải là con người, nên hẳn là ổn thôi.)</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>(この子は人間じゃないから、たぶん大丈夫なはず。)</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event event_skeleton</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;75&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;75&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;75&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Bộ xương lớn của sinh vật nào đó không biết.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>謎の生物の巨大な骨格。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;76&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;76&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;76&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Hừm...?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>うん……？</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;77&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;77&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;77&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Con gì chết đây nhỉ...?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>これ、なんの死骸だろう……？</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;78&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;78&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;78&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Con gì đó bự!</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>なにか大きいやつだね！</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;79&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;79&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;79&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Ồ!</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>あ！</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;80&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;80&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;80&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Con rồng!</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>ドラゴンかも！</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;81&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;81&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;81&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>(Rồng à...!?)</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>(ドラゴン……!?)</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;82&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;82&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;82&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Tớ đúng không nhỉ?!</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>合ってた!?</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;83&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;83&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;83&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Hở? Sao tôi biết được?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>えぇ？　何で私に聞くの？</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;84&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;84&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;84&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Àu...</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>あぅ……</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;85&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;85&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;85&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Bộ xương lớn của con rồng nào đó.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>ドラゴンの大きな骨格。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;86&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;86&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;86&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>(Ở nơi đây có rồng tồn tại thật à...?)</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>(ここには本当にドラゴンがいるの……？)</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;87&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;87&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;87&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Thế giới loài người có rồng là tuyệt lắm luôn đó không phải sao?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>人間の世界にはドラゴンがいるんだって。いいよねぇ！</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;88&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;88&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;88&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Ước gì cũng có rồng nơi đây.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>こっちにもドラゴンがいたらなあ。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;89&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;89&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;89&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>(Thôi bỏ đi.)</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>(違った。)</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;90&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;90&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;90&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Bộ xương lớn của con gì đó khác con rồng.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>ドラゴンではない何かの大きな骨格。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event event_walk_1</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;91&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;91&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;91&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Tụi mình đi bộ rõ là nhiều rồi nhỉ.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>ずいぶん歩いたよね。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;92&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;92&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;92&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>...</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>……</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;93&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;93&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;93&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Chân tớ không có đau hay gì đâu. Khỏi lo!</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>いや、足が痛いとかじゃないよ。心配しないで！</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;94&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;94&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;94&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>...</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>……</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;95&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;95&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;95&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Chắc không có đường ra quá...</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>きっと、ここから出る道はないと思う……</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;96&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;96&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;96&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Hừm...</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>うーん……</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;97&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;97&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;97&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Luôn luôn phải có cách.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>いつも道はあるよ。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;98&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;98&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;98&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>(Phải không...?)</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>(だよね……？)</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;99&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;99&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;99&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Whoa.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>わぁ。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;100&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;100&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;100&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Tớ ưng đó!</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>それいいね！</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;101&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;101&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;101&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>...</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>……</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event misc_blockade</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;102&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;102&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;102&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Con đường đến đây là hết.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>道はここで終わっている。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;103&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;103&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;103&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Hở...? Đến chỗ này hết có đường đi được thật à...?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>え……？　本当に、どこにも行けないの……？</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event misc_bone</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;104&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;104&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;104&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Cục xương lớn.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>大きな骨。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event misc_lamp</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;105&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;105&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;105&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Cái đèn đường bị hỏng.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>壊れた街灯。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event misc_mushrooms</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;106&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;106&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;106&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Mấy cây nấm màu lam sắp hàng trên mặt đất.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>青いキノコが床に並んでいる。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event misc_rubble</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;107&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;107&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;107&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Mớ đá vụn.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>がれきの山。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event misc_rubble_3</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;108&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;108&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;108&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Bức điêu khắc.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>彫刻の一部分。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event misc_rubble_4</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;109&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;109&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;109&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Cái chậu có hình dáng kì lạ.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>奇妙な形の壺。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event move_entrance</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event move_hole</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;110&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;110&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;110&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Dưới nền đất có cái hố to.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>床に大きな穴がある。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;111&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;111&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;111&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>(Nó sâu... với tối.)</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>(深いし……暗い。)</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;112&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;112&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;112&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Tính đi xuống dưới đấy có vẻ là không thông minh lắm đâu.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>ここを降りるのは賢い選択じゃなさそう。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;113&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;113&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;113&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Tôi thấy ngoài việc xuống cái hố này thì phải có lựa chọn nào đó tốt hơn...</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>この穴を降りるより良い選択肢がきっとある気がする……</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;114&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;114&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;114&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>(Chỗ nào cũng đi ngó cả rồi ngoài...)</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>(他の場所は全部調べたけど……)</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;115&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;115&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;115&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>(Nếu xuống đấy... thì sẽ hết cách đi lên lại...)</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>(ここを降りたら……上には戻ってこれない……)</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;116&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;116&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;116&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Đi xuống hố chứ?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>穴を降りる？</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;117&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;117&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;117&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Xuống</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>降りる</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;118&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;118&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;118&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Thôi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>降りない</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;119&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;119&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;119&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>...Hầy, thôi xuống vậy.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>……仕方ない、行こう。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;120&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;120&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;120&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Quay lại nha?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>引き返したい？</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;121&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;121&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;121&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Có còn chỗ nào đi đâu, nên có khi khám phá xem dưới đấy có cái gì luôn.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>他に行くところもないし、この下を探索した方がまだいいと思う。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;122&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;122&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;122&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Rùi.</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>わかった。</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;123&quot;;[$Base.$A:.$E];VLOOKUP(&quot;KeyIndex&quot;;[$Config.$C:.$D];2;0);0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;123&quot;;[$Base.$A:.$E];4;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell table:formula="of:=IFERROR(VLOOKUP(&quot;123&quot;;[$Base.$A:.$E];5;0);&quot;&quot;)"></table:table-cell>
+          <table:table-cell>
+            <text:p>Đi xuống sâu hơn để tìm lối ra... không được thông minh lắm nhỉ?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>出口を探していっそう深くへ潜るなんて……あまり賢いやり方じゃないよね？</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>event move_south</text:p>
+          </table:table-cell>
+          <table:table-cell table:number-columns-repeated="3" />
+        </table:table-row>
+        <table:table-row table:number-rows-repeated="1048401">
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell table:number-columns-repeated="5" />
+        </table:table-row>
+        <calcext:conditional-formats>
+          <calcext:conditional-format calcext:target-range-address="Translation.D1:Translation.D1048576">
+            <calcext:condition calcext:apply-style-name="Bad" calcext:value="formula-is(AND(LEN(TRIM([.C1]))&gt;0; LEN(TRIM([.D1]))=0))" calcext:base-cell-address="Translation.D1" />
+          </calcext:conditional-format>
+        </calcext:conditional-formats>
+      </table:table>
+      <table:table table:name="Base">
+        <table:table-column table:style-name="Base-co1" table:default-cell-style-name="Base-ce1" />
+        <table:table-column table:style-name="Base-co2" table:default-cell-style-name="Base-ce2" />
+        <table:table-column table:style-name="Base-co3" table:default-cell-style-name="Base-ce3" />
+        <table:table-column table:style-name="Base-co4" table:default-cell-style-name="Base-ce4" />
+        <table:table-column table:style-name="Base-co5" table:default-cell-style-name="Base-ce5" />
+        <table:table-row>
+          <table:table-cell>
+            <text:p>ordinal</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>key</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>context</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>extra</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>en</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>1</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_artist.text.dc15efeba28515a0b47151479d87d589c71a43a4</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_artist.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie default</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>(Oh... I know where this is).</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>2</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_artist.text.1e7500416a2e58f686d702b53a6685cc138c8cb4</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_artist.dlg.aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>aoi surprised</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>This must be under that weird fella's house.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>3</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_artist.text.f2784f724c2cfcf2ea1250624671179e25190bc3</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_artist.dlg.aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>aoi surprised</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>You know, the sculptor?</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>4</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_artist.text.7169a9fe242bf1537fcb89e9b96d1f00c9745eed</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_artist.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie blank3</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Yeah.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>5</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_artist.text.b4688f398d4ca846705744f2f08d67b086a073fa</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_artist.dlg.aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>aoi happy</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>I think artists are really impressive!</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>6</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_artist.text.036c284d72612b6c01e1730fd6ad554c1ba177a7</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_artist.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie default</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>(What's this..?)</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>7</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_artist.text.1e7500416a2e58f686d702b53a6685cc138c8cb4</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_artist.dlg.aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>aoi surprised</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>This must be under that weird fella's house.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>8</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_artist.text.f2784f724c2cfcf2ea1250624671179e25190bc3</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_artist.dlg.aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>aoi surprised</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>You know, the sculptor?</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>9</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_artist.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_artist.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie blank2</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>...</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>10</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_artist.text.38a907a7fff5a3d11d34f4eea895f9cdd3c757e4</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_artist.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie blank3</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Not really.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>11</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_artist.text.a49ffff37fdc1e8cad58e5d31a652ae3aa7ec770</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_artist.dlg.aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>aoi confident2</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Oh, it's a cranky old artist.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>12</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_artist.text.895e0822967270f711009800442875bd319a46fb</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_artist.dlg.aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>aoi default</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>I've never spoken to him because he's in a bad mood when he's tired.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>13</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_artist.text.12b533641a3afd6e15701d1080ffb477555132d0</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_artist.dlg.aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>aoi coy</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>...And he's almost always tired.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>14</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_artist.text.0050fb0a9ed431cd524e35bb92b7f8ee533f2430</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_artist.dlg.aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>aoi happy</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>But I think artists are really impressive!</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>15</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_artist.text.68e338cd1e26ddba09a8e63b50eacbbce7eae9ea</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_artist.dlg.aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>aoi awkward4</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Sculpting is really hard...</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>16</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_artist.text.ca3ba76189073a04b344fac06d2d30e122f03ac0</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_artist.dlg.aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Especially hands...</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>17</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_artist.text.4e433504fecc47ae7c137d807e604750ba0f7d30</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_artist.dlg.aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>aoi annoyed2</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>I can't seem to get my hands right...</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>18</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_artist.text.9820caab7c35218095555bdb1a9de58bfb6a50d9</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_artist.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie blank7</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>(Oh, that explains...)</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>19</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_intro.text.a62d941bcf9008acb4432b198e3c4fcda9231c12</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie blank1</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>(Huh... the path is open now.)</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>20</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_intro.text.51f2457cc15f65fd34c4650914d90bb0c8248518</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>aoi worried4</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>We need to walk slowly... and uh... keep an eye out.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>21</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_intro.text.178a5b76673293b3880401be7be569b70014be68</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie blank1</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Keep an eye out for what?</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>22</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_intro.text.988a845c5725248f325fc1a633c7de6c5d008f32</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>aoi scared2</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>For... fairies.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>23</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_intro.text.89d05c626a1af02a9495fcb3ce3811741a8c5fc2</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>aoi sad7</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Don't you know what this place is!?</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>24</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_intro.text.5f8e7c2a57967e06c3957670c945c78aef96189a</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>aoi sad7</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Lacie, don't you know what this place is!?</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>25</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_intro.text.79b54d8898944def87de0aeac6c2c07f2969c4ac</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie blank6</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>...No, not really.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>26</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_intro.text.82ba6b6db8766abe5f278ec33f1f6d3cf2719ca3</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>aoi panic</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>...!</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>27</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_intro.text.72934fbdf83a68983a564f4cbde4afc68507b217</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>aoi sad9</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>This is the inside of a fairy ring!</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>28</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_intro.text.d029bef51f7939a9bc640449488925c20d19e197</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>aoi sad9</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Lacie, this is the inside of a fairy ring!</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>29</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_intro.text.b716d05ccbf4157a6b3a983ba9b7667abf95a8e2</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie blank7</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Um...</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>30</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_intro.text.b357f019a1b3bddb4ddac31222a2aecaf85ef847</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie blank3</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>...The mushroom circle from outside?</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>31</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_intro.text.cdb9fa9e5b49f08b5528535ebb6491417827d530</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>aoi scared11</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Yep. That's a fairy ring.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>32</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_intro.text.b070b6fee53209af6e764a0055518018668ef5b3</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie confused</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>So this place is...</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>33</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_intro.text.d11cb7cdbe060b70ee3b81712bff63a01cb82e12</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie blank6</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Underneath that circle?</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>34</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_intro.text.7169a9fe242bf1537fcb89e9b96d1f00c9745eed</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>aoi scared11</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Yeah.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>35</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_intro.text.90b83d16aa182f821bb3b300a979dcb44ee323f0</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie blank7</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Oh.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>36</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_intro.text.8140fddbce1baef2d931e7fc8053160894e7836c</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie blank4</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Can you tell me more?</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>37</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_intro.text.da09ee6b05ac5561da9a8f10998b83a037e44c88</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>aoi worried5</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Let's see... I only know the things everyone talks about.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>38</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_intro.text.a7d0f3d92653f0dd369ce924a1c3186048b818cb</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>aoi worried6</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>For one, fairies live in fairy rings, and they're really nasty.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>39</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_intro.text.42ca857c211b127437e19bd37e22dd8fd466766f</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie thinking3</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>(Fairies...)</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>40</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_intro.text.76e10107ea610f578c1dceae973d4654a2342116</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>aoi sad9</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>They look nasty too, they have this egg-shaped head that's separated from their body, and they're white, and they have big teeth! And some don't have eyes!</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>41</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_intro.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie thinking4</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>...</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>42</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_intro.text.2315d9306f0dad249ee76cc6eebe79407b6213c5</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>aoi scared4</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>But even without the fairies, winding up inside of a fairy ring is...</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>43</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_intro.text.bc0c78eba93e5d428802165809730b1834930b7c</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>aoi scared6</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Well, they say you get stuck here for 7 years.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>44</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_intro.text.ffba31637c1c564e37a99a15a0792cbea4220d61</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>aoi scared5</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>But nobody has ever escaped because they usually just die before that.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>45</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_intro.text.9efd8dcff58e505697afb09c747fa80e3bca444c</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>aoi panic6</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Oh god this is horrible, we're not gonna escape!</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>46</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_intro.text.102c82a095fb9559c1d5ad928d413bc4578318b3</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>aoi panic8</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Even if we somehow make it 7 years, that's only a myth!</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>47</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_intro.text.31c53548a462ecd764ba84e7fae6cbfa0e2bd15a</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>aoi melt12</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Maybe it's meant to instill hope in the poor souls that end up here!</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>48</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_intro.text.78a3364543c5f8c77e124da8553b8df878123973</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>aoi melt10</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>LIKE US! THIS IS A DEAD END!!!</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>49</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_intro.text.a19f96c389b924ef90c789c6ef203564b263d2bf</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie default</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Aoi.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>50</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_intro.text.44c582df70cc6e653adf2cf0df3f29fd1b6e16ca</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>aoi melt5</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>...?</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>51</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_intro.text.392b80869eb43ff9f69678cce5cf0110a4ac0785</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Cut it off.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>52</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_intro.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>...</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>53</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_intro.text.d449c9de9a0543276c8bc6d9dd13d6d6e93bbb10</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Sorry.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>54</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_intro.text.db984d32db717d5ef4042ea16d3696cd3282c534</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie blank8</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Are the fairies dangerous?</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>55</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_intro.text.872dd34f3c9ce73fa0191895176d98ed4de885ac</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>aoi worried7</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Yeah...</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>56</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_intro.text.e79d765b9b1ecc8bee357324c160b797637f71bb</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>aoi worried9</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>...But everything is dangerous.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>57</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_intro.text.5c1108dfb31f05b528bbe7d1cb1f02c4dfd87fa4</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>aoi worried2</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>The floor here is also slowly digesting us.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>58</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_intro.text.03dc7a63ddf05014a33f7ea8f435c32d24ed1f7c</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>aoi awkward4</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>I guess you don't feel it because you have shoes, hehe...</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>59</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_intro.text.a2d07f704e5a1218bf33981d134166e096b4a5fc</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>aoi scared4</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>I only have socks, so it's already eating away at them...</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>60</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_intro.text.90b83d16aa182f821bb3b300a979dcb44ee323f0</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie concerned4</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Oh.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>61</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_intro.choice.text.03aebe1f8895a6a5d433445cee1072874bbd43c8</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_intro.choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>topic/question</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>(Should I offer Aoi my shoes?)</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>62</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_intro.choice.5397e0583f14f6c88de06b1ef28f460a1fb5b0ae</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_intro.choice.(Should I offer Aoi my shoes?)</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Yes</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>63</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_intro.choice.816c52fd2bdd94a63cd0944823a6c0aa9384c103</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_intro.choice.(Should I offer Aoi my shoes?)</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>No</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>64</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_intro.text.5fa4cecc0b6bc1b052be7e043bc933a9d3741e1d</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie blank2</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Would you like my shoes?</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>65</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_intro.text.505db9d41dde94c64f4f8881e5c2a79d561ab856</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>aoi panic</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Whaaat? You're offering me your own shoes?!?</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>66</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_intro.text.1237f9ce88d7e798f52860086d9ddab9c36c0170</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>aoi awkward2</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>That's so nice of you!</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>67</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_intro.text.87f85587570c2a98a46c8642dd47cd3a83042332</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>aoi awkward2</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>That's so nice, Lacie!</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>68</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_intro.text.27d2285c2a3afb0419178d87b807e9c06fd02e68</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>But no, I'll be alright. I'll just remake my feet if they start being unusable.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>69</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_intro.text.3544a02b07676a79edee4c17562d789b044bcd6a</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>aoi awkward3</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>It just burns but that's okay, I'm used to burns.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>70</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_intro.text.43c24b1bcabb04107948863dfd43485763c1da05</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>aoi scared7</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>...I'm used to burns...</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>71</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_intro.text.d9d37510ab311b74ca8ce360e0004e8b63cd4650</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie confused2</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Um... okay.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>72</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_intro.text.14c966e967566fef1b0e91b1aa0b5dcd30551d93</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie concerned5</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>(Best not...)</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>73</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_intro.text.5f55fccbf72cde6b35ef77a3f48e6a6bb6ff1dfd</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie concerned8</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>(Who knows what this floor will do to my feet...)</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>74</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_intro.text.54d5b71887090adb6607c85ac74b1bcc6f40e29b</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_intro.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>(This person is not human, so they will probably be fine.)</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>75</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_skeleton.text.d4257509c3fdc0735e1d84dd44b8be36f3c3a81b</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_skeleton.dlg.narrator</text:p>
+          </table:table-cell>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>A large skeleton of an unknown creature.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>76</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_skeleton.text.701c55a8901f14b88ea2379adba9249fa013c2ee</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_skeleton.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie default</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Hm...?</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>77</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_skeleton.text.149fcfd6467b08730ffcd726217f4de6e5abcbb3</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_skeleton.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie blank2</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>What died here...?</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>78</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_skeleton.text.e6f60e79e7c88a44b30bbd2de806d798be82f134</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_skeleton.dlg.aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>aoi excited</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Something big!</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>79</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_skeleton.text.5235ffca159f87e7ca7afc3669fdfa64c04944b0</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_skeleton.dlg.aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>aoi surprised2</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Oh!</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>80</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_skeleton.text.026023c3cfdf0d132240abd4b75a38f96ecff154</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_skeleton.dlg.aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>aoi confident2</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>A dragon!</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>81</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_skeleton.text.d7e6bcfed38dcd7579575f9e4f4cc49cf843bbae</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_skeleton.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie confused2</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>(A dragon...!?)</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>82</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_skeleton.text.88c10e6bb1fc44435e08e7c776cfcd0163a3c6e6</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_skeleton.dlg.aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>aoi excited</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Was I right?!</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>83</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_skeleton.text.efc0b5e49402e4959bc2eab101306cf240958f13</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_skeleton.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie confused</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Huh? How should I know?</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>84</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_skeleton.text.7121d06c4bdabac476ed5c92a374f7127c143c7e</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_skeleton.dlg.aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>aoi pout4</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Aw...</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>85</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_skeleton.text.b59ea421e7c4c787bddaf4bcfedceefa8b440b97</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_skeleton.dlg.narrator</text:p>
+          </table:table-cell>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>A large skeleton of a dragon.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>86</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_skeleton.text.11a2654f18df476e68a46d25e6b6c228508a47d7</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_skeleton.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie confused</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>(Do dragons really exist in this place...?)</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>87</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_skeleton.text.5568761170fd2cb698d8b4f10e100ac93c612179</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_skeleton.dlg.aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>aoi happy</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Isn't it so cool that humans have dragons in their world?</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>88</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_skeleton.text.ca3dc71063d428664f9cf9e64df86e72df945d53</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_skeleton.dlg.aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>aoi excited</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>I'd like dragons here too.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>89</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_skeleton.text.3b3330bd7770080bbaead931bc47fe541e259443</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_skeleton.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie blank2</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>(Never mind.)</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>90</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_skeleton.text.10f821dd8c8020d81302b6e8b7417a101609b102</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_skeleton.dlg.narrator</text:p>
+          </table:table-cell>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>A large skeleton of something other than a dragon.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>91</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_walk_1.text.10f37fefceb80fee6ccb7645a832a7635d73f97c</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_walk_1.dlg.aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>aoi default</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>We sure are walking a lot.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>92</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_walk_1.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_walk_1.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie default</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>...</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>93</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_walk_1.text.0a4966453c55c72a1a2ab3a77621d0878e1d6a64</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_walk_1.dlg.aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>aoi happy2</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>My feet don't hurt, or anything. Don't worry!</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>94</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_walk_1.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_walk_1.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie confused</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>...</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>95</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_walk_1.text.9f5c5ddca4c145533c4e90fcad50e516cb017278</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_walk_1.dlg.aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>aoi worried7</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>I bet there's no way out...</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>96</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_walk_1.text.9c4d28dac355afbda8acf50991980c2b658a80ab</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_walk_1.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie reflective</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Hmm...</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>97</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_walk_1.text.9cbbe5702a880dd6064cc678431298c431f8ea48</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_walk_1.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie blank1</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>There's always a way.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>98</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_walk_1.text.4a0df7f8dee5d412c8cc1c4e4600118f1058790e</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_walk_1.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie concerned7</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>(Right...?)</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>99</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_walk_1.text.a80ddd01bf1579a7c69cbda5f78fc274128640d5</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_walk_1.dlg.aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>aoi surprised</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Whoa.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>100</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_walk_1.text.6768fe48e0b3fc20c7457ee2581b43b2c66574c7</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_walk_1.dlg.aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>aoi happy2</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>I like that!</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>101</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.event_walk_1.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.event_walk_1.dlg.aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>aoi happy2</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>...</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>102</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.misc_blockade.text.ba57c9c44f14a9f4a7ed71fa681a86b58357a72a</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.misc_blockade.dlg.narrator</text:p>
+          </table:table-cell>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>The path ends here.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>103</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.misc_blockade.text.1cb0c4b4f3fb2042503edb1145948c2904426331</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.misc_blockade.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie concerned2</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Huh...? Is there really nowhere to go from here...?</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>104</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.misc_bone.text.0347a328a7daa75108a024b9a545c1fc3b2374cc</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.misc_bone.dlg.narrator</text:p>
+          </table:table-cell>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>A large bone.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>105</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.misc_lamp.text.289627bc712f2454a32dbb98157c0385191c5562</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.misc_lamp.dlg.narrator</text:p>
+          </table:table-cell>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>A broken street lamp.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>106</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.misc_mushrooms.text.86738da2de8febb3990149e6c3c6d03e471e930d</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.misc_mushrooms.dlg.narrator</text:p>
+          </table:table-cell>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>Blue mushrooms are lining the floor.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>107</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.misc_rubble.text.18fa5ba70ca4b97df4d7b79998313efa47122d9e</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.misc_rubble.dlg.narrator</text:p>
+          </table:table-cell>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>A bunch of rubble.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>108</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.misc_rubble_3.text.04bf5f2188bb27a6cb9362251284e1fda3d297d6</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.misc_rubble_3.dlg.narrator</text:p>
+          </table:table-cell>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>A piece of a sculpture.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>109</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.misc_rubble_4.text.400dd2240f2a1bb8e7be81c2d36fb4e9a4432666</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.misc_rubble_4.dlg.narrator</text:p>
+          </table:table-cell>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>A strangely-shaped pot.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>110</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.move_hole.text.5d907a5ea95b16a5b9fa6c463d57ab090a63e97c</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.move_hole.dlg.narrator</text:p>
+          </table:table-cell>
+          <table:table-cell />
+          <table:table-cell>
+            <text:p>There's a large hole on the floor.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>111</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.move_hole.text.115cfb53fc4719df12a9093275537837b0fea310</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.move_hole.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie thinking4</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>(It's deep... and dark.)</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>112</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.move_hole.text.b7b7fa01f05b21af9bd6e4003fb8f7b93a11263d</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.move_hole.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie thinking2</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>It doesn't seem very smart to try going down there.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>113</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.move_hole.text.bec5e05674d0f3b97821f04aed171d00bdaeda33</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.move_hole.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie thinking4</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>I feel like there has to be a better option than going down this hole...</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>114</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.move_hole.text.45475dd40c324b0fb967b1b6934f99f06e839b9e</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.move_hole.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie thinking</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>(We checked everywhere else but...)</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>115</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.move_hole.text.8bc6e568d4dcbe4fd7c751abeb3bb7301135ab03</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.move_hole.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie thinking2</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>(If I go down there... it will be impossible to come back up...)</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>116</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.move_hole.choice.text.a751184af467ca74c1e6e1eece8e62e9b9c6a6e0</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.move_hole.choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>topic/question</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Go down the hole?</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>117</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.move_hole.choice.5397e0583f14f6c88de06b1ef28f460a1fb5b0ae</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.move_hole.choice.Go down the hole?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Yes</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>118</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.move_hole.choice.816c52fd2bdd94a63cd0944823a6c0aa9384c103</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.move_hole.choice.Go down the hole?</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>choice</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>No</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>119</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.move_hole.text.dfe68b6ad63c85d916fac829e799dc9953936584</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.move_hole.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie sigh</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>...Sigh, here we go.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>120</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.move_hole.text.344b9134fc5eb7449b573574a7b68ed4c2820732</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.move_hole.dlg.aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>aoi embarassed</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Wanna turn back?</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>121</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.move_hole.text.cad68ad9767f52162fd0fcd1393835f914aa9caf</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.move_hole.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie reflective2</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>There's nowhere else to go, so we might as well explore whatever's down there.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>122</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.move_hole.text.4371ac3060a8e81fec1f5db96f6b4d8fb50513f9</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.move_hole.dlg.aoi</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>aoi pout5</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Okay.</text:p>
+          </table:table-cell>
+        </table:table-row>
+        <table:table-row>
+          <table:table-cell>
+            <text:p>123</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>story.Ch1_FairyRing_B1F_Hallway.move_hole.text.45e4445f7908d2abb13a4a2762e86ed0fd736fd0</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>events.Ch1_FairyRing_B1F_Hallway.move_hole.dlg.lacie</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>lacie reflective3</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>Going deeper down to find an exit... this isn't very smart, is it?</text:p>
+          </table:table-cell>
+        </table:table-row>
+      </table:table>
+      <table:table table:name="Config">
+        <table:table-column table:style-name="Config-co1" table:default-cell-style-name="Config-ce1" />
+        <table:table-column table:style-name="Config-co2" table:default-cell-style-name="Config-ce2" />
+        <table:table-column table:style-name="Config-co3" table:default-cell-style-name="Config-ce3" />
+        <table:table-column table:style-name="Config-co4" table:default-cell-style-name="Config-ce4" />
+        <table:table-row>
+          <table:table-cell>
+            <text:p>UseContextKey</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>1</text:p>
+          </table:table-cell>
+          <table:table-cell>
+            <text:p>KeyIndex</text:p>
+          </table:table-cell>
+          <table:table-cell table:formula="of:=IF(VLOOKUP(&quot;UseContextKey&quot;;[.$A:.$B];2;0) = 0; 2; 3)"></table:table-cell>
+        </table:table-row>
+      </table:table>
+      <table:named-expressions />
+    </office:spreadsheet>
+  </office:body>
+</office:document>
