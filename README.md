@@ -1,5 +1,5 @@
 # Bản dịch phương ngữ miền Trung của Paper Lily - Chapter 1
-Bản dịch này được tạo ra nhằm đưa phương ngữ miền Trung trở nên phổ biến trong cộng đồng game Việt Nam, hoan nghinh tất thảy ai muốn vô cải thiện hay bổ sung để bản dịch được hoàn thiện hơn. Đây là tác phẩm phái sanh của bản Việt hóa Paper Lily và đã được sự cho phép của tác giả **Meigyoku Thmn**.
+Bản dịch này được tạo ra nhằm đưa phương ngữ miền Trung trở nên phổ biến trong cộng đồng game Việt Nam, hoan nghinh tất thảy ai muốn vô cải thiện hay bổ túc để bản dịch được hoàn thiện hơn. Đây là tác phẩm phái sanh của bản Việt hóa Paper Lily và đã được sự cho phép của tác giả **Meigyoku Thmn**.
 
 Bản dịch thuộc sở hữu của Meigyoku Thmn, ngoài việc giới thiệu hay quay video gameplay ra, vui lòng không tạo ra tác phẩm phái sinh hoặc sử dụng cho mục đích thương mại!
 
